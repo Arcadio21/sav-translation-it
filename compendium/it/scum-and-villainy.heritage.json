@@ -1,0 +1,32 @@
+{
+    "label": "Retaggio",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Colonist": {
+            "name": "Coloni",
+            "description": "La spina dorsale dell'Egemonia: contadini, minatori e terraformatori. Oltre a lottare per guadagnarsi da vivere sulle frontiere planetarie, queste persone sono più abituate della maggior parte degli altri a trattare con bestie aliene e strane rovine dei Precursori."
+        },
+        "Imperial": {
+            "name": "Imperiale",
+            "description": "Chi ha un retaggio Imperiale proviene dal Nucleo o dai mondi civilizzati. Sei stato educato come detta l'Egemonia, attraverso la formazione professionale di una Gilda, gli insegnamenti di un Culto o i tutori di una famiglia nobile."
+        },
+        "Manufactured": {
+            "name": "Artificiali",
+            "description": "Le \"famiglie\" di Artificiali sono controllate in qualche modo dalle Gilde; per esempio, un clone Yaru fuggito da una struttura o un urbot che ha evitato la cancellazione della memoria di routine. Spesso devi nascondere la tua origine e la tua indipendenza."
+        },
+        "Spacer": {
+            "name": "Orbitale",
+            "description": "Se preferisci sentirti a casa nel ventre di una nave che scricchiola, potresti appartenere a una famiglia Orbitale. I minatori di ghiaccio, i meccanici delle stazioni e la maggior parte dei mercanti nascono, invecchiano e muoiono nello spazio, e possono considerare sospette le tue avventure sulla terraferma."
+        },
+        "Wanderer": {
+            "name": "Pellegrino",
+            "description": "Se non vuoi un pianeta da chiamare casa, potresti avere un retaggio da Pellegrino. Una piccola ma notevole parte della popolazione dell'Egemonia si sposta da un pianeta all'altro, seguendo le opportunità e i cicli economici galattici. O semplicemente lasciandosi guidare dalla Via."
+        },
+        "Xeno": {
+            "name": "Xeno",
+            "description": "Le famiglie xeno sono diverse quanto gli innumerevoli tipi di xeno nella galassia. Sei cresciuto in una cultura non umana. Gli xeno faticano a trovare accettazione nell'Egemonia e molte delle loro pratiche sono viste come strane o insolite."
+        }
+    }
+}

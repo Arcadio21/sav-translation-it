@@ -1,0 +1,359 @@
+{
+    "label": "Abilità",
+    "mapping": {
+        "description": "system.description",
+        "class": "system.class"
+    },
+    "entries": {
+        "(Me) Analyst": {
+            "name": "(Me) Analista",
+            "description": "Quando usi hackerare su un sistema, puoi anche fare una domanda riguardo al proprietario o a un luogo nel sistema, come se avessi ottenuto un 6 su raccogliere informazioni.\n\nQuando resisti alle conseguenze di hackerare, ottieni +1d.\n\nNon importa il motivo per cui stai hackerando un sistema, imparerai sempre qualcosa in più sui sistemi che stai manipolando. Se stavi raccogliendo informazioni, puoi tirare per scoprire una cosa in più, oppure accettare semplicemente il 6 per ciò che volevi sapere.",
+            "class": "Mechanic"
+        },
+        "(Me) Bailing Wire and Mech Tape": {
+            "name": "(Me) MacGyver",
+            "description": "Ottieni un’attività di downtime extra per riparare, e l’attività riparare ti costa 0 cred. Normalmente devi pagare 1 cred per effettuare un’attività di riparazione durante il downtime. Con questa abilità, puoi effettuare l’attività gratuitamente. Le riparazioni gratuite non possono essere “messe da parte”. Ne ottieni una per ogni fase di downtime.",
+            "class": "Mechanic"
+        },
+        "(Me) Construct Whisperer": {
+            "name": "(Me) La persona che sussurrava alle macchine",
+            "description": "Quando usi studiare sulle macchine, queste ti parlano.\n\nLa prima volta che ottieni un critico mentre ripari o costruisci una macchina, puoi aggiungerle una semplice modifica (vedi Creare a pagina 282).\n\nIn che modo le macchine ti sussurrano i loro segreti? È una questione di intuito? Senti quello che sentono loro? Non ottieni la modifica se migliori il risultato spendendo crediti.",
+            "class": "Mechanic"
+        },
+        "(Me) Fixed": {
+            "name": "(Me) Aggiustatutto",
+            "description": "Puoi spendere la tua armatura speciale per resistere alle conseguenze provocate da macchinari che si rompono o vengono danneggiati, oppure per spingerti al limite quando ripari o costruisci una macchina.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. Le macchine possono includere la tua nave, quindi puoi usarla come armatura per la nave se sei a bordo e stai gestendo il danno. Se usi questa abilità per spingerti al limite, ottieni uno dei benefici (+1d, +1 efficacia, agire nonostante il danno grave) ma non subisci i 2 stress. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Mechanic"
+        },
+        "(Me) Hacker": {
+            "name": "(Me) Hacker",
+            "description": "Puoi spendere la tua armatura speciale per resistere alle conseguenze di hackerare, oppure per spingerti al limite quando usi hackerare o ottenere informazioni elettronicamente.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. Se usi questa abilità per spingerti al limite, ottieni uno dei benefici (+1d, +1 efficacia, agire nonostante il danno grave) ma non subisci i 2 stress. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Mechanic"
+        },
+        "(Me) Junkyard Hunter": {
+            "name": "(Me) Re della Discarica",
+            "description": "Quando acquisisci parti o equipaggiamento durante il downtime, puoi ottenere due risorse, oppure una risorsa a +1 qualità.\n\nI tuoi contatti nelle discariche possono procurarti ciò che ti serve già rimesso a nuovo o a un prezzo speciale. Se ottieni due risorse, entrambe hanno qualità pari al tuo tiro.",
+            "class": "Mechanic"
+        },
+        "(Me) Mechanic's Heart": {
+            "name": "(Me) Cuor di Meccanico",
+            "description": "Quando parli con il cuore in mano, le tue parole possono fare breccia persino nel criminale più incallito, e ottieni potenza.\n\nQuesta abilità funziona in tutte le situazioni senza restrizioni. Finché parli in modo genuino e onesto, le tue parole verranno ascoltate.",
+            "class": "Mechanic"
+        },
+        "(Me) Overclock": {
+            "name": "(Me) Overclock",
+            "description": "Quando spendi uno stratagemma su un tiro armeggiare per riparare o potenziare, tratta il sistema su cui hai lavorato come di 1 qualità superiore per il resto dell’incarico.\n\nPuoi tirare armeggiare durante un incarico per ottenere di più da un sistema, ma questi incrementi temporanei sono solo situazionali e torneranno alla normalità la prossima volta che entrerai in un bacino di carenaggio. Puoi overcloccare sistemi non navali per aumentarne la qualità.\n\nNota che le abilità di partenza non possono essere prese tramite l'abilità speciale Veterano.",
+            "class": "Mechanic"
+        },
+        "(Me) Tinker": {
+            "name": "(Me) Smanettone",
+            "description": "Quando agisci su un orologio e usi armeggiare o hackerare, oppure quando utilizzi studiare su uno schema tecnico, riempi +1 sezione di un orologio a tuo favore.\n\nOttieni il segmento extra sia che si tratti di un’azione di downtime o meno. Ciò significa che per te è più facile aggirare la sicurezza durante un incarico o effettuare una riparazione di emergenza mentre scappi da una nave che ti insegue.",
+            "class": "Mechanic"
+        },
+        "(Me) Xeno": {
+            "name": "(Me) Xeno",
+            "description": "Puoi spendere stress (0-2) per effettuare un’impresa inumana che solo i membri della tua specie riescono a fare. (Pagina 296)\n\nTutte le specie hanno Meccanici, quindi quando giochi uno xeno, considera come il tuo xenotipo si relaziona alle macchine.\n\nAlcuni xenos hanno un rapporto insolito con la tecnologia (specialmente la tecnologia Ur), come i sah'iir, mentre altri usano materiali insoliti, come i memish.",
+            "class": "Mechanic"
+        },
+        "(Mu) Backup": {
+            "name": "(Go) Supporto",
+            "description": "Lo spingersi al limite di un alleato costa solo 1 stress (non 2) in qualsiasi azione che imposti tu, o a cui dai assistenza.\n\nLe azioni di impostazione e assistenza (vedi pagina 158) ti conferiscono comunque dadi bonus o efficacia come di consueto.",
+            "class": "Muscle"
+        },
+        "(Mu) Battleborn": {
+            "name": "(Go) Forgiato dalla Guerra",
+            "description": "Puoi spendere la tua armatura speciale per ridurre il danno da un attacco in combattimento, o per spingerti al limite durante il combattimento.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. “Ridurre il danno” significa che il livello di danno è ridotto di 1. Se usi questa abilità per spingerti al limite, ottieni uno dei benefici (+1d, +1 efficacia, agire nonostante il danno grave) senza subire i 2 stress. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Muscle"
+        },
+        "(Mu) Bodyguard": {
+            "name": "(Go) Guardia del Corpo",
+            "description": "Quando proteggi un membro dell’equipaggio, resisti con +1d. Quando subisci danno, recuperi 1 stress.\n\nLa manovra di lavoro di squadra proteggere (vedi pagina 160) ti permette di affrontare una conseguenza al posto del tuo compagno di squadra.",
+            "class": "Muscle"
+        },
+        "(Mu) Flesh Wound": {
+            "name": "(Go) Solo un Graffio",
+            "description": "Se sei ferito all’inizio della fase di downtime, segna +3 sezioni sul tuo orologio di guarigione. Quando ti spingi al limite per ignorare le penalità dovute alle ferite, ti costa solo 1 stress (non 2).\n\nChe tu sia duro per natura o ti sia fatto le ossa nel modo più difficile, le ferite non ti abbattono. Se vuoi saperne di più, vedi Guarigione a pagina 186.",
+            "class": "Muscle"
+        },
+        "(Mu) Predator": {
+            "name": "(Go) Squalo",
+            "description": "Ottieni +1d contro bersagli indeboliti o vulnerabili. Ogni volta che raccogli informazioni su una debolezza o una vulnerabilità, il peggior risultato che puoi ottenere è 4/5.\n\nSai come sfruttare la paura, il dolore e la vulnerabilità degli altri per ottenere ciò che vuoi. Quando cerchi di scoprire queste cose su una persona, scopri sempre qualcosa, anche se l’informazione non è immediatamente utile o è incompleta. Qualcuno è considerato vulnerabile se è drogato, fiducioso, gravemente ferito o spaventato.",
+            "class": "Muscle"
+        },
+        "(Mu) Ready For Anything": {
+            "name": "(Go) Pronto a Tutto",
+            "description": "Quando cadi in un’imboscata, ottieni potenza in tutte le azioni effettuate durante un flashback, e il tuo primo flashback ti costa 0 stress.\n\nTi aspetti sempre un'imboscata e ti prepari di conseguenza. Quando cadi in un'imboscata, fai un flashback alla tua preparazione. Se la tua preparazione richiede tiri azione, ottieni potenza su di essi.",
+            "class": "Muscle"
+        },
+        "(Mu) Scary": {
+            "name": "(Go) Terrificante",
+            "description": "Emani un’aura di minaccia e pericolo palese anche a chi è meno attento. Guadagni potenza quando cerchi di intimidire qualcuno. Se lo fai subito dopo una dimostrazione di forza, ottieni anche +1d.\n\nIspiri paura in chi ti circonda, specialmente quando diventi violento. Come reagiscono dipende da loro. Alcuni fuggiranno, altri rimarranno impressionati, altri risponderanno con violenza. Il GM determina la reazione di ogni specifico PNG.\n\nL’intimidazione è spesso accompagnata da un tiro di comandare, e i tuoi sforzi hanno più successo se dimostri di fare sul serio.",
+            "class": "Muscle"
+        },
+        "(Mu) Wrecking Crew": {
+            "name": "(Go) Distruttore",
+            "description": "La tua forza e ferocia sono famigerate. Quando colpisci in mischia, ottieni +1d. Ogni volta che spendi uno stratagemma in combattimento, ottieni anche +1 efficacia su quell’azione.\n\nChe tu sia un maestro di arti marziali o cresciuto dai mistici per combattere con armi antiche, la tua prodezza nel combattimento corpo a corpo è leggendaria. \n\nSe spendi uno stratagemma in combattimento, aggiungi +1 efficacia a quell’azione. Questo ti permette di colpire più duramente un avversario o compensare penalità di scala o qualità. Questo si cumula con il +1d dello stratagemma e il +1d dell’abilità speciale Distruttore.",
+            "class": "Muscle"
+        },
+        "(Mu) Unstoppable": {
+            "name": "(Go) Inarrestabile",
+            "description": "Puoi spingerti al limite per eseguire una delle seguenti azioni: compiere uno sforzo fisico che rasenta il sovrumano, oppure affrontare alla pari una piccola gang.\n\nQuando ti spingi al limite per attivare questa abilità, ottieni comunque uno dei normali benefici dello spingersi al limite (+1d, +1 efficacia, ecc.) oltre all'abilità speciale.\n\nUno sforzo sovrumano è qualcosa che una persona normale non potrebbe fare senza aiuto, come spezzare manette di metallo. Se affronti una piccola gang alla pari, hai la loro stessa scala.\n\nNota che le abilità di partenza non possono essere prese tramite l'abilità speciale Veterano.",
+            "class": "Muscle"
+        },
+        "(Mu) Xeno": {
+            "name": "(Go) Xeno",
+            "description": "Puoi spendere stress (0-2) per effettuare un’impresa inumana che solo i membri della tua specie riescono a fare. (Pagina 296)\n\nDa Worf a D’Argo a Chewbacca, gli alieni potenti in combattimento sono un classico della space opera. L'abilità iniziale del Gorilla è significativa, ma molti xeno hanno una forza ben superiore a quella di un umano normale. Alcuni potrebbero avere arti extra o adattamenti ideali per ambienti ostili. Pensa a come il tuo retaggio xeno potrebbe rendere il tuo Gorilla più utile, e discuti con il tuo tavolo su come vuoi usare la tua abilità xeno.",
+            "class": "Muscle"
+        },
+        "(My) Center": {
+            "name": "(Mi) Concentrazione",
+            "description": "Ottieni Meditazione come vizio. Quando indulgi in questo vizio, rimuovi 1 stress e aggiungi Visioni Oscure come possibile Eccesso nel Vizio.\n\nLa contemplazione dell'universo ha i suoi pericoli. Se scegli Visioni Oscure come eccesso, la Via ti mostra una persona cara, un contatto o un amico in grave pericolo.",
+            "class": "Mystic"
+        },
+        "(My) Kinetics": {
+            "name": "(Mi) Cinetica",
+            "description": "Puoi spingerti al limite per eseguire una delle seguenti azioni: usare la Via per lanciare con forza spaventosa un oggetto delle dimensioni di un tavolo; scattare brevemente in una direzione a velocità sovrumana.\n\nForza spaventosa significa abbastanza forte da ferire gravemente una persona normale. Velocità sovrumana significa abbastanza veloce da essere a malapena una macchia. La tua portata è la dimensione di una grande stanza. Sì, le persone possono contare come oggetti.",
+            "class": "Mystic"
+        },
+        "(My) Psy-blade": {
+            "name": "(Mi) Psico-lama",
+            "description": "Puoi infondere energia della Via nelle tue armi da mischia. Mentre è carica, l’arma può attraversare materiali non schermati come fossero burro, e tu guadagni potenza nei combattimenti in mischia.\n\nLe piastre di metallo pesante non sono schermate, quindi puoi tagliare la maggior parte delle porte senza problemi. I costrutti schermati sono rari, ma offrono abbastanza protezione da far perdere potenza a questo attacco. Non puoi infondere i tuoi pugni con energia della Via (o guanti, tirapugni, ecc.).",
+            "class": "Mystic"
+        },
+        "(My) Psy-dancing": {
+            "name": "(Mi) Trucco Mentale",
+            "description": "Puoi spingerti al limite per ottenebrare la mente del tuo bersaglio e usare manipolare, anche di fronte all’evidenza: “Devi fare ciò che dico. Sono l’ambasciatore.” Spendi 1 stress per ogni caratteristica aggiuntiva: il bersaglio ha solo dei vaghi ricordi dell’evento; il bersaglio è un piccolo gruppo di persone.\n\nQueste confusioni non persistono per sempre, anche se coloro che hanno ricordi vaghi spesso riempiranno i dettagli mancanti con supposizioni. \"Devo aver controllato il suo distintivo. Lo faccio sempre\".",
+            "class": "Mystic"
+        },
+        "(My) Sundering": {
+            "name": "(Mi) Scomposizione",
+            "description": "Puoi spingerti al limite per armonizzare con la Via e distorcerla, causando del danno psichico a chiunque si trovi nell’area soggetta al tuo attacco. Puoi spendere 1 stress per ogni caratteristica aggiuntiva: causi danno invece di stordire; tu e le persone scelte da te ottenete +2d per resistere agli effetti.\n\nDistorci la Via dentro di te, e per estensione distorci la Via negli altri, il che nel migliore dei casi è un'idea rischiosa. Scomposizione non può danneggiare oggetti inanimati. Quando causi danno, i sintomi possono includere convulsioni a breve termine e rottura dei vasi sanguigni. Coloro che sono addestrati appositamente per resistere agli attacchi psichici o che sono in qualche modo protetti, possono ridurne l'effetto.",
+            "class": "Mystic"
+        },
+        "(My) Visions": {
+            "name": "(Mi) Visioni",
+            "description": "Spendi 1 stress per vedere a distanza un luogo o una persona lontani, ma intimamente legati a te. Spendi 1 stress per ogni caratteristica aggiuntiva: dura per un minuto invece che un momento; anche il tuo destinatario può vederti e sentirti; riesci a vedere qualcosa che per te è solo familiare (non intimamente conosciuto).\n\nSe spendi uno stratagemma con la tua abilità iniziale (\"La Via\"), copre tutti i costi. Quando il tuo bersaglio può anche vederti e sentirti, siete entrambi nella stessa \"area\" ai fini di altre abilità.",
+            "class": "Mystic"
+        },
+        "(My) Warded": {
+            "name": "(Mi) Protetto",
+            "description": "Puoi spendere la tua armatura speciale per resistere alle conseguenze di un attacco scagliato sfruttando la Via o quelle dell’uso di un artefatto, o per spingerti al limite quando usi poteri mistici.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. Se usi questa abilità per spingerti al limite, ottieni uno dei benefici (+1d, +1 efficacia, agire nonostante il danno grave) ma non subisci i 2 stress. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Mystic"
+        },
+        "(My) Way Shield": {
+            "name": "(Mi) Scudo della Via",
+            "description": "Puoi bloccare i proiettili blaster usando la Via (resisti con risolutezza). Se resisti a un attacco di blaster, puoi spendere 1 stress per respingere il fuoco e usarlo per effettuare un attacco.\n\nResistere ai blaster in questo modo di solito riduce il danno a zero.",
+            "class": "Mystic"
+        },
+        "(My) The Way": {
+            "name": "(Mi) La Via",
+            "description": "Puoi spendere uno stratagemma invece di pagare qualsiasi costo in stress.\n\nOgni volta che devi pagare stress, puoi spendere uno stratagemma invece. Questo include resistenze e costi per spingersi al limite. Per le abilità che hanno un costo variabile, come Scomposizione, quei costi aggiuntivi fanno parte della stessa attivazione, quindi lo sforzo e tutte le caratteristiche aggiuntive insieme costano solo uno stratagemma.\n\nNota che le abilità di partenza non possono essere prese tramite l'abilità speciale Veterano.",
+            "class": "Mystic"
+        },
+        "(My) Xeno": {
+            "name": "(Mi) Xeno",
+            "description": "Il settore è pieno di specie che sono in sintonia con la Via a modo loro. Alcuni affermano di essere discendenti degli Ur, mentre altri assicurano di essersi evoluti su un pianeta dominato dalla Via. Comunque sia, come Mistico xeno rinunci a un'abilità iniziale chiave e devi considerare come questo influisce sul tuo sviluppo come Mistico.\n\nLavora con il tuo GM e il resto del tuo tavolo per definire le abilità e i privilegi speciali che corrispondono alla tradizione mistica specifica del tuo popolo.",
+            "class": "Mystic"
+        },
+        "(P) Commander": {
+            "name": "(Pi) Comandante",
+            "description": "Ogni volta che guidi un’Azione di Gruppo, ottieni +1 scala (per esempio, un gruppo piccolo conta come un gruppo medio). Se guidi un’Azione di Gruppo in combattimento, puoi contare più 6 provenienti da tiri diversi come successi critici.\n\nUn'azione di gruppo è quando più personaggi eseguono la stessa azione e tirano le loro rispettive riserve per quelle azioni (vedi \"Guidare un'azione di gruppo\" a pagina 158). Se superi già la scala del tuo avversario, ottieni una scala aggiuntiva (e quindi un grado di efficacia). Se due o più giocatori ottengono un 6, allora il risultato del tiro per tutti è un critico. Devi comunque pagare i costi di stress di qualsiasi partecipante il cui risultato fosse 1-3.",
+            "class": "Pilot"
+        },
+        "(P) Exceed Specs": {
+            "name": "(Pi) Piede sull’Acceleratore",
+            "description": "Mentre ti trovi a bordo di un’astronave, puoi danneggiare uno dei suoi sistemi, a cui hai accesso, per ottenere +1d oppure +1 efficacia al tiro.\n\nSovraccarichi un sistema per ottenere un aumento a breve termine. La qualità del sistema rimane la stessa per il tiro che aumenti. Dopo il tiro, il sistema frigge e la qualità si riduce.",
+            "class": "Pilot"
+        },
+        "(P) Hedonist": {
+            "name": "(Pi) Edonista",
+            "description": "Quando indulgi al Vizio, puoi modificare il risultato dei dadi di +/- 2. Un alleato che sta indulgendo con te può fare lo stesso.\n\nQualsiasi alleato deve unirsi a te in qualsiasi vizio tu stia soddisfando (o possa soddisfare tramite un'abilità dell'equipaggio, come la Cucina Casalinga della Stardancer). Puoi aggiustare il risultato a meno di 2, o non modificarlo affatto. Puoi anche curare più di 6 stress in un singolo tiro vizio in questo modo.",
+            "class": "Pilot"
+        },
+        "(P) Keen Eye": {
+            "name": "(Pi) Occhio Attento",
+            "description": "Hai occhi acuti e noti piccoli dettagli che molti potrebbero trascurare. Ottieni +1d quando spari con i cannoni della nave o spari in modo spettacolare.\n\nQuesto può essere usato come base per fare tiri di resistenza per agire per primi. \"No, voglio agire prima di lui, l'avrei visto prendere l'arma\". Inoltre, puoi effettuare tiri spettacolari con quasi qualsiasi tipo di arma a distanza, non solo con le armi della nave.",
+            "class": "Pilot"
+        },
+        "(P) Leaf On the Wind": {
+            "name": "(Pi) Sono una Foglia al Vento",
+            "description": "Quando ti spingi al limite, puoi spendere +1 stress (3 stress in totale) per ottenere sia +1 efficacia che +1d, invece di dover scegliere tra l’uno o l’altro.\n\nNormalmente avresti bisogno di due sforzi separati (4 punti di stress in totale) per ottenere lo stesso effetto. Questo può essere utilizzato in qualsiasi tiro.",
+            "class": "Pilot"
+        },
+        "(P) Punch It!": {
+            "name": "(Pi) A Tutto Gas!",
+            "description": "Quando spendi uno stratagemma su un tiro disperato, questo conta invece come rischioso.\n\nPoiché hai speso uno stratagemma nel tiro, anche se conta come rischioso, non puoi generare uno stratagemma con esso (a meno che tu non abbia un'altra abilità che dica che puoi). Ottieni comunque il +1d al tiro per lo stratagemma, ma la posizione deve essere modificata, così come le conseguenze. Nota che questo può essere usato in qualsiasi tiro (non solo quelli che coinvolgono il pilotare).",
+            "class": "Pilot"
+        },
+        "(P) Side Job": {
+            "name": "(Pi) Lavoretto",
+            "description": "Puoi spendere un’attiva di downtime nel porto facendo dei lavoretti. Ottieni 1 cred. Se ci sono delle voci che girano, il GM te lo dirà.\n\nPotrebbe non esserci alcuna voce in giro, ma il GM dovrebbe trattare questo come un tiro di raccogliere informazioni in cui hai ottenuto un 6 per scoprire eventuali notizie e pettegolezzi in quel porto.",
+            "class": "Pilot"
+        },
+        "(P) Traveler": {
+            "name": "(Pi) Girovago",
+            "description": "Sei a tuo agio quando vieni a contatto con culture particolari e xeno. Ottieni potenza quando cerchi di usare socializzare o manipolare con loro.\n\nSebbene qualsiasi personaggio possa aver avuto qualche esperienza con culture xeno specifiche, questa abilità rappresenta una vasta esperienza e comprensione delle stesse. Che tu mostri un profondo rispetto o sappia esattamente quali tasti premere, sei più efficace di quanto ci si potrebbe aspettare.",
+            "class": "Pilot"
+        },
+        "(P) Ace Pilot": {
+            "name": "(Pi) Asso Spaziale",
+            "description": "Hai potenza su tutti i tiri che hanno a che fare con la velocità. Quando tiri per resistere alle conseguenze del pilotare, ottieni +1d.\n\nLa tua potenza potrebbe essere compensata dalla migliore qualità dell'altro (se i motori della loro nave sono migliori dei tuoi, per esempio). Ricorda che le conseguenze del pilotare non sono sempre danni alla nave, ma spesso possono essere resistite allo stesso modo.\n\nNota che le abilità di partenza non possono essere prese tramite l'abilità speciale Veterano.",
+            "class": "Pilot"
+        },
+        "(P) Xeno": {
+            "name": "(Pi) Xeno",
+            "description": "I piloti xeno sono spesso associati a navi xeno. Se scegli questa opzione, chiedi al tuo GM quali modifiche potresti apportare alla tua nave o a quali potenziamenti insoliti potresti avere accesso a causa delle tue origini. Nello sviluppare le caratteristiche della tua gente, pensa a come le tue abilità di pilota potrebbero essere influenzate dall'avere sensi insoliti (forse puoi vedere la gravità o altri spettri), o modi unici di interfacciarti (come connessioni neurali dirette).",
+            "class": "Pilot"
+        },
+        "(Sc) Ask Questions Later": {
+            "name": "(Ca) ... E Poi Fai Le Domande",
+            "description": "Quando usi socializzare per raccogliere informazioni, ottieni +1 efficacia e puoi inoltre chiedere: Chi potrebbe trarne beneficio?\n\nQuando fai la tua domanda, ottieni sia la risposta a questa che alla domanda \"chi potrebbe trarne beneficio?\". Dato che ottieni potenza, il peggio che puoi ottenere da un normale tiro di raccogliere informazioni sarebbe un risultato standard.",
+            "class": "Scoundrel"
+        },
+        "(Sc) Daredevil": {
+            "name": "(Ca) Scavezzacollo",
+            "description": "Quando effettui un tiro disperato, puoi ottenere +1d. Se lo fai, non segnare PE nell’attributo di quell’azione.\n\nDevi prendere la decisione prima di fare il tiro. Puoi aggiungere questo dado extra solo se la posizione finale del tiro è disperata, quindi, per esempio, se usi una manovra di impostazione per cambiare la posizione a rischiosa, non puoi aggiungere il dado extra.",
+            "class": "Scoundrel"
+        },
+        "(Sc) Devil's Own Luck": {
+            "name": "(Ca) Fortuna Sfacciata",
+            "description": "Puoi spendere la tua armatura speciale per resistere alle conseguenze di colpi di blaster, o per spingerti al limite quando usi la tua parlantina (o la tua capacità di fuggire dal pericolo) per cavarti d’impaccio.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. I colpi di blaster possono estendersi a pistole e a farti sparare in qualsiasi altro modo, e fuggire dai guai può essere sia sull'astronave che a piedi. Se usi questa abilità per spingerti al limite, ottieni uno dei benefici (+1d, +1 efficacia, agire nonostante il danno grave) ma non subisci i 2 stress. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Scoundrel"
+        },
+        "(Sc) I Know a Guy": {
+            "name": "(Ca) Conosco Un Tizio",
+            "description": "Quando attracchi per la prima volta in un porto dopo essere stato via, scegli uno degli effetti qui di seguito e chiedi al GM di interconnetterlo con un prossimo incarico: non è letale / paga bene / non è un lavoro urgente / viene da una fazione di cui ti fidi / prende di mira un tuo nemico. Puoi spendere 1 cred per un effetto aggiuntivo.\n\nAnche se hai sempre un orecchio a terra, deve passare abbastanza tempo perché emergano nuovi lavori in un porto (di solito, una o due fasi di downtime). Il GM ti dirà come vieni a conoscenza del lavoro; potrebbe essere una taglia annunciata in pubblico o qualcosa che ti dice uno dei tuoi contatti.",
+            "class": "Scoundrel"
+        },
+        "(Sc) Never Tell Me the Odds": {
+            "name": "(Ca) Non T’Ho Chiesto Pronostici!",
+            "description": "Generi stratagemmi nei tiri disperati. Puoi generare stratagemmi anche quando spendi uno stratagemma.\n\nNormalmente, generi stratagemmi solo in tiri rischiosi per i quali non hai speso stratagemmi. La tua capacità di \"allungare\" gli stratagemmi, rigenerandoli in tiri in cui li hai già spesi, ti dà la capacità di metterti in situazioni che altri non prenderebbero nemmeno in considerazione.",
+            "class": "Scoundrel"
+        },
+        "(Sc) Shoot First": {
+            "name": "(Ca) Prima Spara...",
+            "description": "Quando attacchi mentre sei nascosto o riesci a far cadere in trappola un bersaglio, ottieni +1d.\n\nQuando c’è dubbio su chi deve agire per primo, la risposta… sei tu (due personaggi con Prima Spara agiscono simultaneamente).\n\nPer attaccare di nascosto, il tuo bersaglio non deve essere consapevole della tua presenza. Se stai tendendo una trappola, il tuo bersaglio non deve essere consapevole della trappola.",
+            "class": "Scoundrel"
+        },
+        "(Sc) Tenacious": {
+            "name": "(Ca) Tenace",
+            "description": "Le penalità dovute al danno sono meno gravi di un livello (anche se il livello 4 di danno rimane fatale).\n\nQuando le penalità da danno vengono applicate ai tiri azione, trattale come un livello inferiore a quello che ti aspetteresti, quindi il danno di livello 1 viene ignorato e il danno di livello 3 è -1d. Il danno di livello 4, chiamato anche danno letale, rimane letale, a meno che tu non possa usare armatura o un tiro resistenza per ridurlo prima.",
+            "class": "Scoundrel"
+        },
+        "(Sc) When the Chips Are Down": {
+            "name": "(Ca) Quando Le Cose Vanno Male",
+            "description": "Ottieni un secondo utilizzo dell’armatura speciale che si ricarica all’inizio del downtime.\n\nQuesto ti permette di usare una seconda armatura speciale OPPURE usare la stessa armatura speciale due volte.",
+            "class": "Scoundrel"
+        },
+        "(Sc) Serendipitous": {
+            "name": "(Ca) Serendipità",
+            "description": "Il tuo equipaggio inizia con +1 stratagemma quando vengono ripristinati all’inizio di un incarico.\n\nQuesto aumenta gli stratagemmi iniziali dell'equipaggio in un incarico. Semplicemente, sei più fortunato degli altri.\n\nNota che le abilità di partenza non possono essere prese tramite l'abilità speciale Veterano.",
+            "class": "Scoundrel"
+        },
+        "(Sc) Xeno": {
+            "name": "(Ca) Xeno",
+            "description": "Le Canaglie sono spesso rappresentazioni del pubblico, l'immagine di una \"persona normale\". Una Canaglia xeno è un esercizio per umanizzare l'Altro e rendere accessibili i personaggi insoliti di Procyon. Nel creare il tuo xeno, pensa alla tua cultura e alla tua gente. Il tuo noioso villaggio accetta il tuo disprezzo per le regole? Sono benvenuti nella società egemonica o sono ai margini di ciò che è accettabile? Sono di Procyon o di un altro luogo della galassia?",
+            "class": "Scoundrel"
+        },
+        "(Sp) Disarming": {
+            "name": "(Po) Disinnescare",
+            "description": "Ogni volta che usi uno stratagemma mentre parli, le ostilità e il pericolo si mettono “in pausa” finché hai la parola.\n\nOttieni ancora +1d a qualsiasi tiro che devi fare per spiegarti, probabilmente socializzare, convincere o comandare.",
+            "class": "Speaker"
+        },
+        "(Sp) Favors Owed": {
+            "name": "(Po) Mi Devi Un Favore",
+            "description": "Durante il downtime, ottieni +1d quando acquisisci una risorsa oppure tieni un basso profilo. Ogni volta che raccogli informazioni, ottieni +1d.\n\nSe usi la tua autorità, connessioni o informazioni privilegiate, otterrai informazioni migliori e accesso a risorse migliori.",
+            "class": "Speaker"
+        },
+        "(Sp) Heart To Heart": {
+            "name": "(Po) Dritto Al Cuore",
+            "description": "Quando fornisci utili spunti di riflessione, o consigli accorati che un compagno di equipaggio poi segue, entrambi rimuovete 1 stress.\n\nUn consiglio significativo può essere cambiare il corso d'azione abituale di qualcuno, fargli intraprendere un'azione difficile che ha un costo per lui o fargli riconsiderare le sue scelte. Se ci sono dubbi su cosa costituisca significativo o sincero, discutine con il tuo gruppo e decidetelo insieme.",
+            "class": "Speaker"
+        },
+        "(Sp) Infiltrator": {
+            "name": "(Po) Infiltratore",
+            "description": "Non sei influenzato da Rango o qualità quando eludi misure di sicurezza.\n\nQuesta abilità ti permette di affrontare nemici di Rango superiore alla pari. Quando stai hackerando un sistema di sicurezza elettronico, forzando una serratura o sgattaiolando via da guardie d'élite, il tuo grado di efficacia non viene mai ridotto a causa del Rango superiore o del livello di qualità della tua opposizione.",
+            "class": "Speaker"
+        },
+        "(Sp) Old Friends": {
+            "name": "(Po) Vecchi Amici",
+            "description": "Ogni volta che atterri in un nuovo luogo, appuntati (nella sezione Amici Influenti sulla scheda del tuo libretto) il nome di un amico che conosci e vive lì.\n\nCome con i tuoi Amici Influenti iniziali, puoi espandere la tua lista di amici la prima volta che atterri in un nuovo luogo.",
+            "class": "Speaker"
+        },
+        "(Sp) Player": {
+            "name": "(Po) Il Grande Gioco",
+            "description": "Sai sempre se qualcuno ti sta mentendo.\n\nQuesta abilità funziona in tutte le situazioni senza restrizioni. È molto potente, ma può anche essere una maledizione. Puoi riconoscere tutte le bugie, anche quelle bianche.",
+            "class": "Speaker"
+        },
+        "(Sp) Purpose": {
+            "name": "(Po) Ostinazione",
+            "description": "Puoi spendere la tua armatura speciale per spingerti al limite quando sei in svantaggio rispetto al tuo avversario, oppure quando sei ferito. Quando resisti con risolutezza, ottieni +1d.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. Possono superarti in qualità, potere o scala. Essere ferito significa agire con una penalità di danno, anche se puoi usare questo sforzo per ignorare la penalità. Se usi questa abilità per spingerti al limite, ottieni uno dei benefici (+1d, +1 efficacia, agire nonostante il danno grave) ma non subisci i 2 stress. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Speaker"
+        },
+        "(Sp) Subterfuge": {
+            "name": "(Po) Espediente",
+            "description": "Puoi spendere la tua armatura speciale per resistere a una conseguenza di persuasione o diffidenza. Quando resisti con intuito, ottieni +1d.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. Tutte le persone che dubitano delle tue bugie, storie, alibi, eccetera, contano ai fini di persuasione o diffidenza. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Speaker"
+        },
+        "(Sp) Air of Respectability": {
+            "name": "(Po) Aria Rispettabile",
+            "description": "Ottieni un’attività di downtime extra per acquisire una risorsa oppure per tenere un basso profilo.\n\nLe tue connessioni ti danno un flusso continuo di materiale e persone che puoi usare per smussare gli spigoli dopo le tue avventure.\n\nNota che le abilità di partenza non possono essere prese tramite l'abilità speciale Veterano.",
+            "class": "Speaker"
+        },
+        "(Sp) Xeno": {
+            "name": "(Po) Xeno",
+            "description": "A parte i diplomatici, i Portavoce xeno sono piuttosto insoliti nell'Egemonia. Tra i Consorzi, gli xeno sono molto più accettati e, in alcuni, persino preferiti.\n\nL'avventura spaziale ha molti esempi di empatici naturali, specie con funzioni cognitive avanzate o persino robot protocollari che servono come Portavoce per il loro equipaggio. Nel considerare il tuo retaggio xeno, pensa a come comunica la tua specie e discuti con il tuo GM su come quegli stili di comunicazione potrebbero manifestarsi nel gioco.",
+            "class": "Speaker"
+        },
+        "(St) Book Learning": {
+            "name": "(Do) Erudito",
+            "description": "Parli una moltitudine di lingue e hai una vasta educazione. Ottieni +1d quando usi studiare durante un’attività di downtime.\n\nPer te, comunicare bene non è quasi mai un problema. Inoltre, hai esperienza in quasi tutte le materie accademiche che qualcuno potrebbe menzionare, e puoi usare i tiri di raccogliere informazioni per scoprire cosa potresti aver imparato in quegli studi.",
+            "class": "Stitch"
+        },
+        "(St) Combat Medic": {
+            "name": "(Do) Medico da Campo",
+            "description": "Puoi spendere la tua armatura speciale per spingerti al limite resistere a una qualsiasi conseguenza mentre ti occupi di un paziente. Quando usi operare su qualcuno in combattimento, rimuovi 1 stress.\n\nQuando usi questa abilità, spunta la casella dell’armatura speciale sulla scheda del tuo libretto. Quando resisti alle conseguenze, possono essere per te, come risultato di uno dei tuoi tiri, o per proteggere il paziente. La tua armatura speciale si ripristina quando scegli il carico all’inizio di un incarico.",
+            "class": "Stitch"
+        },
+        "(St) Dr. Strange": {
+            "name": "(Do) Doctor Strange",
+            "description": "La tua ricerca e i tuoi ambiti di studio sono estremi, esoterici e si concentrano sul misticismo. Riesci sempre a maneggiare in sicurezza gli artefatti dei Precursori. Quando usi studiare su un manufatto oppure operare su una strana sostanza, puoi chiedere: cosa potrebbe essere in grado di fare? Perché potrebbe essere pericoloso?\n\nNormalmente è necessario un tiro di armonizzare per maneggiare un artefatto precursore in sicurezza. Puoi fare le domande in aggiunta a qualsiasi altra cosa tu stia facendo con l'artefatto o la sostanza. Tratta questo come un tiro di raccogliere informazioni in cui hai ottenuto un 6.",
+            "class": "Stitch"
+        },
+        "(St) Moral Compass": {
+            "name": "(Do) Guida Morale",
+            "description": "Quando fai la cosa giusta a costo di rimetterci, segna PE (in una qualsiasi categoria).\n\nIl costo per te deve essere reale, anche se non deve essere devastante. Potrebbe contare perdere un'opportunità significativa, subire una battuta d'arresto in un progetto o entrare in un'accesa discussione con un amico.",
+            "class": "Stitch"
+        },
+        "(St) Patch": {
+            "name": "(Do) Rappezzare",
+            "description": "Puoi usare operare su qualcuno durante un incarico, per permettergli di ignorare gli effetti di una penalità dovuta al danno.\n\nUn tiro riuscito dura per tutto l'incarico. Sebbene il tuo paziente possa ignorare gli effetti della penalità da danno, non la rimuove; ci sono ancora meno caselle disponibili per ferite aggiuntive.",
+            "class": "Stitch"
+        },
+        "(St) Physicker": {
+            "name": "(Do) Fisiologo",
+            "description": "Puoi studiare una malattia, delle ferite, oppure un cadavere, e raccogliere informazioni da una scena del crimine. Inoltre, il tuo equipaggio ottiene +1d ai tiri per recuperare.\n\nQuesta abilità rappresenta spesso un'istruzione formale che ti permette di capire un cadavere da una prospettiva forense o decostruire una malattia scientificamente. Il bonus di guarigione per il tuo equipaggio si applica solo se aiuti a trattare ferite o lesioni in qualsiasi momento durante il recupero.",
+            "class": "Stitch"
+        },
+        "(St) Under Pressure": {
+            "name": "(Do) Sotto Pressione",
+            "description": "Aggiungi uno stratagemma alla riserva ogni volta che tu o un membro del tuo equipaggio subite danno di livello 2 o superiore.\n\nPer ottenere lo stratagemma, la conseguenza applicata risultante deve essere di livello 2 o superiore; se resisti o viene ridotta al di sotto di quel livello, non ottieni lo stratagemma.",
+            "class": "Stitch"
+        },
+        "(St) Welcome Anywhere": {
+            "name": "(Do) Sempre Il Benvenuto",
+            "description": "Se indossi i tuoi abiti da medico, sei il benvenuto anche in luoghi pericolosi. Ottieni +1d in socializzare e manipolare quando offri di prenderti cura di qualcuno che ne ha bisogno.\n\nQuando scegli di apparire come tale, sei riconoscibile come medico e prezioso per coloro che vivono la dura vita di Procyon.",
+            "class": "Stitch"
+        },
+        "(St) I'm a Doctor Not a...": {
+            "name": "(Do) Sono Un Dottore Non Un...",
+            "description": "Puoi spingerti al limite per tirare operare mentre effettui un’azione diversa. Racconta di quale paziente, ricerca o incarico ti ha insegnato questo trucchetto.\n\nOgni volta che usi questa abilità impariamo qualcosa in più sul tuo passato. Considera di introdurre i tuoi contatti in queste scoperte, se appropriato.\n\nNota che le abilità di partenza non possono essere prese tramite l'abilità speciale Veterano.",
+            "class": "Stitch"
+        },
+        "(St) Xeno": {
+            "name": "(Do) Xeno",
+            "description": "Ci sono numerose specie con un dono per la medicina e sensi migliorati che rendono superfluo uno scanner medico. Pensa a come potresti approcciare la guarigione in modo diverso da un medico umano. Forse non sei abituato alle specie con un solo cuore. O trovi fastidioso che altri non possano rigenerare gli arti come la tua gente. Abbraccia e celebra le differenze.",
+            "class": "Stitch"
+        }
+    }
+}

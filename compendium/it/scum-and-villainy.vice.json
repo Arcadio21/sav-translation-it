@@ -1,0 +1,40 @@
+{
+    "label": "Vizi",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Faith": {
+            "name": "Fede",
+            "description": "Fai parte di un Culto, oppure osservi specifici rituali a intervalli regolari."
+        },
+        "Gambling": {
+            "name": "Azzardo",
+            "description": "Brami i giochi d’azzardo, le scommesse sugli eventi sportivi, ecc."
+        },
+        "Home Cooking": {
+            "name": "Cucina Casalinga",
+            "description": "Puoi sfruttare i talenti culinari dell’equipaggio. (Richiede l’abilità speciale Cucina Casalinga della Stardancer)."
+        },
+        "Luxury": {
+            "name": "Lusso",
+            "description": "Ami esibizioni costose e ostentate di opulenza."
+        },
+        "Obligation": {
+            "name": "Devozione",
+            "description": "Sei devoto alla famiglia, a una causa, un’organizzazione, un’opera di carità, ecc."
+        },
+        "Pleasure": {
+            "name": "Piacere",
+            "description": "Trovi gratificazione nei piaceri materiali come il sesso, il cibo, l’alcol, la droga, l’arte, ecc."
+        },
+        "Stupor": {
+            "name": "Oblio",
+            "description": "Cerchi l’oblio abusando di droga, ubriacandoti, combattendo fino allo sfinimento, ecc."
+        },
+        "Weird": {
+            "name": "Stramberie",
+            "description": "Effettui strani esperimenti, esplori la Via, entri in comunione con artefatti Ur, ecc."
+        }
+    }
+}

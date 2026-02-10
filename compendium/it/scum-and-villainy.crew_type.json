@@ -1,0 +1,28 @@
+{
+    "label": "Tipi di Equipaggio",
+    "mapping": {
+        "description": "system.description",
+        "experience_clues": "system.experience_clues",
+        "def_abilities": "system.def_abilities"
+    },
+    "entries": {
+        "Cerberus": {
+            "name": "Cerberus",
+            "description": "Specialisti in estrazioni. Il vostro forte è trovare persone o cose che non vogliono essere trovate e riscuotere taglie.",
+            "experience_clues": "Ottenete PE equipaggio quando eseguite con successo un'estrazione o riscuotete una taglia.",
+            "def_abilities": "(Co) Scanner a Lungo Raggio, (Mo) Motore a Salto, (Ar) Rampino, (Au) Celle, (Fo) Destrezza, Mercantile, Stacey Weathers, Arlox, Ishi, Lix, Jezri"
+        },
+        "Firedrake": {
+            "name": "Firedrake",
+            "description": "Ribelli e criminali. Proteggete gli oppressi e vi opponete all'Egemonia.",
+            "experience_clues": "Ottenete PE equipaggio quando eseguite con successo un incarico che si oppone al dominio dell'Egemonia.",
+            "def_abilities": "(Mo) Motore a Salto, (Ca) Alloggi Equipaggio, (Ar) Cannoni a Particelle, (Au) Scudi, (Eq) Navetta, Corvetta, Garin, Tyura, Ada Black, Tiko Lux, Ibo-one"
+        },
+        "Stardancer": {
+            "name": "Stardancer",
+            "description": "Contrabbandieri e violatori del blocco. Cercate lavori occasionali, piccoli furti e recupero di oggetti smarriti.",
+            "experience_clues": "Ottenete PE equipaggio quando eseguite con successo un incarico di trasporto o contrabbando.",
+            "def_abilities": "(Ca) Vano di Contrabbando, (Ca) Stiva, (Ca) Vano Segreto, (Mo) Motore a Salto, (Fo) Destrezza, Trasporto, Nane, Keel, Alecto, Zaeed, Kakk"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "label": "Libretti",
+    "mapping": {
+        "description": "system.description",
+        "experience_clues": "system.experience_clues",
+        "def_abilities": "system.def_abilities"
+    },
+    "entries": {
+        "Mechanic": {
+            "name": "Meccanico",
+            "description": "Un fissato dei motori e hacker",
+            "experience_clues": "Quando giochi un Meccanico, ottieni PE quando affronti una sfida con competenza tecnica o caos.",
+            "def_abilities": "(Me) Smanettone, Nisa, Stev, Len, Kenn"
+        },
+        "Muscle": {
+            "name": "Gorilla",
+            "description": "Un combattente pericoloso e intimidatorio",
+            "experience_clues": "Quando giochi un Gorilla, ottieni PE quando affronti una sfida con violenza o coercizione.",
+            "def_abilities": "(Go) Inarrestabile, Krieger, Shod, Chon-zek, Yazu, Aya"
+        },
+        "Mystic": {
+            "name": "Mistico",
+            "description": "Un vagabondo galattico in armonia con la Via",
+            "experience_clues": "Quando giochi un Mistico, ottieni PE quando affronti una sfida con la saggezza o la Via.",
+            "def_abilities": "(Mi) La Via, Horux, Hicks, Laxx, Rye, Blish"
+        },
+        "Pilot": {
+            "name": "Pilota",
+            "description": "Un mago del volante e amante del pericolo",
+            "experience_clues": "Quando giochi un Pilota, ottieni PE quando affronti una sfida con velocità o stile.",
+            "def_abilities": "(Pi) Asso Spaziale, Yattu, Triv, Choss, Meris, Mav"
+        },
+        "Scoundrel": {
+            "name": "Canaglia",
+            "description": "Un sopravvissuto sgangherato e fortunato",
+            "experience_clues": "Quando giochi una Canaglia, ottieni PE quando affronti una sfida con fascino o audacia.",
+            "def_abilities": "(Ca) Serendipità, Nyx, Ora, Jal, Rhin, Battro"
+        },
+        "Speaker": {
+            "name": "Portavoce",
+            "description": "Una persona rispettabile che conosce la gente giusta",
+            "experience_clues": "Quando giochi un Portavoce, ottieni PE quando affronti una sfida con l'inganno o l'influenza.",
+            "def_abilities": "(Po) Aria Rispettabile, Arryn, Manda, Kerry, Je-zee"
+        },
+        "Stitch": {
+            "name": "Doc",
+            "description": "Un guaritore o scienziato spaziale",
+            "experience_clues": "Quando giochi un Doc, ottieni PE quando affronti una sfida con intuito o compassione.",
+            "def_abilities": "(Do) Sono Un Dottore Non Un..., Zana, Sambo, Al, Duna, Orel"
+        }
+    }
+}

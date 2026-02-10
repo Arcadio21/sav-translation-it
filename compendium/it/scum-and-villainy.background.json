@@ -1,0 +1,36 @@
+{
+    "label": "Background",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Academic": {
+            "name": "Accademia",
+            "description": "Uno studioso, un professore, uno studente, una persona la cui vocazione è la conoscenza."
+        },
+        "Cult": {
+            "name": "Culto",
+            "description": "Adepto di un Culto, ufficialmente approvato o no. Un guerriero sacro, un prete, o un religioso devoto."
+        },
+        "Guilder": {
+            "name": "Corporativo",
+            "description": "Persona coinvolta nelle macchinazioni di una Corporazione, magari un progettista di astronavi, un analista finanziario, o un responsabile della logistica."
+        },
+        "Labor": {
+            "name": "Manovalanza",
+            "description": "Un operaio, un autista, uno scaricatore di spazioporto, un minatore o altri tipi di manodopera specializzata. La maggioranza degli abitanti dell’Egemonia ha questo background."
+        },
+        "Military": {
+            "name": "Militare",
+            "description": "Un soldato dell’Egemonia, un mercenario, un agente dei servizi segreti, uno stratega, un addestratore, ecc."
+        },
+        "Noble": {
+            "name": "Nobile",
+            "description": "Un privilegiato che vive una vita di lussi, un estimatore d’arte, un politicante appassionato di intrighi tra Casate, ecc."
+        },
+        "Syndicate": {
+            "name": "Criminale",
+            "description": "Parte di una banda del crimine organizzato, dal vecchio signore del crimine ormai spodestato, alla semplice sentinella."
+        }
+    }
+}

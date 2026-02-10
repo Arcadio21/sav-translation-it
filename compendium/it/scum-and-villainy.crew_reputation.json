@@ -1,0 +1,40 @@
+{
+    "label": "Reputazione dell'Equipaggio",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Ambitious": {
+            "name": "Ambiziosi",
+            "description": "Avete o mostrate un forte desiderio e determinazione per il successo."
+        },
+        "Brutal": {
+            "name": "Brutali",
+            "description": "Spietatamente violenti."
+        },
+        "Daring": {
+            "name": "Audaci",
+            "description": "Avventurosi o coraggiosi."
+        },
+        "Honorable": {
+            "name": "Onorevoli",
+            "description": "Meritevoli di onore."
+        },
+        "Professional": {
+            "name": "Professionali",
+            "description": "Avete o mostrate le qualità di persone addestrate e qualificate, come efficacia, abilità, organizzazione e serietà."
+        },
+        "Savvy": {
+            "name": "Scaltri",
+            "description": "Astuti e intelligenti; avete buon senso e capacità di giudizio."
+        },
+        "Strange": {
+            "name": "Strani",
+            "description": "Insoliti o sorprendenti in modo inquietante o difficile da capire."
+        },
+        "Subtle": {
+            "name": "Sottili",
+            "description": "Usate metodi intelligenti e indiretti per raggiungere i vostri scopi."
+        }
+    }
+}

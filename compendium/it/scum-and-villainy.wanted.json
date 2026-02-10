@@ -1,0 +1,61 @@
+{
+    "label": "Coinvolgimenti",
+    "entries": {
+        "Arrest": {
+            "name": "Arresto",
+            "description": "<p>Un detective presenta un fascicolo di prove a un giudice per avviare un’azione penale nei vostri confronti. La polizia del sistema manda una pattuglia ad arrestarvi (una squadra di scala almeno pari al vostro <strong>LIVELLO RICERCATO</strong>, o una nave di Rango pari al vostro <strong>LIVELLO RICERCATO</strong>). Li potete corrompere con <strong>CRED</strong> pari al vostro <strong>LIVELLO RICERCATO +3</strong>, potete consegnare qualcuno (in questo caso azzerate il vostro <strong>SOSPETTO</strong> e il vostro <strong>LIVELLO RICERCATO</strong> nel sistema), oppure provare a evitare la cattura.</p>"
+        },
+        "Bounty Hunter": {
+            "name": "Cacciatore di Taglie",
+            "description": "<p>Una fazione nemica ingaggia un cacciatore di taglie. Combattete, fuggite o corrompetelo. Se non avete ancora fazioni con status negativo, per ora evitate il coinvolgimento.</p>"
+        },
+        "Collectors": {
+            "name": "Esattori",
+            "description": "<p>Un’agenzia di recupero crediti reclama parte della vostra astronave. Pagate loro <strong>2 CRED</strong>, date loro i componenti che vogliono (rimuovete un modulo della nave), o liberatevi di loro in un altro modo.</p>"
+        },
+        "Cooperation": {
+            "name": "Cooperazione",
+            "description": "<p>Una fazione con cui avete status +2 o +3 vi chiede un “favore”. Accettate l’incarico, oppure perdete 1 status con la fazione. Se non avete ancora fazioni con +2 o +3 status, per ora evitate il coinvolgimento.</p>"
+        },
+        "Impounded": {
+            "name": "Sequestro",
+            "description": "<p>Le autorità portuali sequestrano la vostra astronave. Corrompete con <strong>2 CRED</strong> i lavoratori portuali per convincerli a rimuovere il blocco, oppure “rubate” la vostra nave. Se non vi trovate su un pianeta o su una stazione, per ora evitate il coinvolgimento.</p>"
+        },
+        "Interrogation": {
+            "name": "Interrogatorio",
+            "description": "<p>Gli agenti del sistema prendono in custodia un PG per interrogarlo sui crimini dell’equipaggio. Come sono riusciti a catturarti? Puoi corromperli con <strong>2 CRED</strong>, oppure ti convincono con la forza (<strong>DANNO LIVELLO 2</strong>) a raccontargli quello che vogliono sapere (<strong>+2 SOSPETTO</strong>). Puoi resistere a ognuna delle due conseguenze effettuando due tiri separati.</p>"
+        },
+        "New \"Friends\"": {
+            "name": "Nuovi \"Amici\"",
+            "description": "<p>Una fazione neutrale vi chiede di svolgere un incarico che è estremamente pericoloso, paga poco, o raccoglie più <strong>SOSPETTO</strong> del solito (a scelta del GM). Accettate, o perdete un livello di status con loro.</p>"
+        },
+        "Out of Gas": {
+            "name": "Guasto Catastrofico",
+            "description": "<p>Un pezzo della vostra nave si rompe in modo catastrofico, danneggiando il sistema e rendendolo inutilizzabile fino a che non verrà riparato. Se non avete usato la vostra astronave nell’ultimo incarico, per ora evitate il coinvolgimento.</p>\n<p>Questo coinvolgimento può verificarsi mentre volate tra pianeti o sistemi, oppure durante il viaggio da o verso un incarico. Significa che l’intero sistema (ad esempio i motori) non può essere utilizzato. Chi chiamate in soccorso e quanto vi verrà a costare?</p>"
+        },
+        "Pirates!": {
+            "name": "Pirati!",
+            "description": "<p>I pirati tentano di impossessarsi della vostra nave con la forza. Scappate, combattete, oppure strappate un accordo. Se non avete usato la vostra astronave nell’ultimo incarico, per ora evitate il coinvolgimento.</p>"
+        },
+        "Reprisals": {
+            "name": "Ritorsione",
+            "description": "<p>Una fazione nemica si muove contro di voi (o un amico, contatto o fornitore di vizi). Corrompeteli pagando <strong>1 CRED</strong> per loro Rango, lasciate che se la prendano con voi, o reagite e fategli vedere chi è che comanda. Se non avete fazioni con status negativo, per ora evitate il coinvolgimento.</p>"
+        },
+        "Ship Trouble": {
+            "name": "Problemi Con La Nave",
+            "description": "<p>Un sistema della nave fa i capricci. Danneggiate un sistema (il GM vi dirà quale).</p> <blockquote> <p>Potete riparare il sistema normalmente, ma dovete affrontare le conseguenze del danno nel momento in cui questo si verifica. Questo coinvolgimento può verificarsi mentre volate tra pianeti o sistemi, oppure durante il viaggio da o verso un incarico.</p> </blockquote>"
+        },
+        "Unquiet Black": {
+            "name": "Visitatori Siderali",
+            "description": "<p>Un alieno o una creatura della Via si intrufola a bordo. Richiedete i servizi di un Mistico o di uno sterminatore per provare a distruggerlo o bandirlo, oppure occupatevene voi stessi.</p> <blockquote> <p>Trattate la magnitudine (vedi a pag. 282) della creatura della Via come pari al <strong>LIVELLO RICERCATO</strong> dell’equipaggio nel sistema. Può trattarsi di parassiti, di un carico che non sapevate essere vivo, delle strane creature che si nascondono in rotte sconosciute, o di bizzarri effetti della fisica derivati dal vostro uso sconsiderato dell’iperguida.</p> </blockquote>"
+        },
+        "Ur Field": {
+            "name": "Richiamo di Ur",
+            "description": "<p>Il portale di salto più vicino richiama ognuno di voi con un canto che non riuscite a comprendere. Resistete con <strong>RISOLUTEZZA</strong>, oppure subite un <strong>DANNO DI LIVELLO 1</strong> a causa delle visioni da cui non avete scampo.</p> <blockquote> <p>Quello che scegliete di fare con le visioni dipende da voi. Termineranno nel momento in cui lascerete il sistema, oppure al prossimo downtime, a seconda di cosa si verifica prima.</p> </blockquote>"
+        },
+        "Wanted Level 4": {
+            "name": "Nave da Guerra",
+            "description": "<p>Il Governatore invia una nave da guerra della Legione o della Casata Malklaith per catturare la vostra astronave. Quando raggiungete il <strong>LIVELLO RICERCATO 4</strong> in un sistema, la guardia personale del governatore viene inviata al vostro inseguimento per assicurarvi alla giustizia e dovete trovare un modo per fuggire. Non potete corromperli, e cercare di combatterli sarebbe una pazzia. In ogni caso, se sopravvivete all’incontro, il vostro <strong>LIVELLO RICERCATO</strong> diminuisce di 1: le risorse per inseguirvi non sono infinite.</p> <blockquote> <p>Generalmente, la nave da guerra sarà una fregata ben armata e dotata di alcuni caccia monoposto. Per scrollarvela di dosso, potreste prendere in considerazione l’idea di ridipingere o modificare la vostra astronave, oppure ottenere documenti e transponder contraffatti.</p> </blockquote>"
+        }
+    }
+}

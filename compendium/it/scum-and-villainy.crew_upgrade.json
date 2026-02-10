@@ -1,0 +1,145 @@
+{
+    "label": "Moduli della Nave",
+    "mapping": {
+        "description": "system.description",
+        "class": "system.class"
+    },
+    "entries": {
+        "(A) AI Module": {
+            "name": "(Au) Modulo IA",
+            "description": "Un software collegato a un nucleo IA Ur, con filamentos di fibra ottica che percorrono tutta la nave. Può automatizzare alcune attività oppure manovrare l’astronave per conto dell’equipaggio. Modulo con personalità irriverente disponibile gratuitamente."
+        },
+        "(A) Armory": {
+            "name": "(Au) Armeria",
+            "description": "Una stanza sicura, che contiene le armi e le armature dell’equipaggio. Tutte le armi e le armature dell’equipaggio sono considerate eccellenti, se non lo erano già."
+        },
+        "(A) Brig": {
+            "name": "(Au) Cella",
+            "description": "Una prigione spaziale. Non è pensata per un’incarcerazione a lungo termine. Eviterà la maggior parte dei tentativi di fuga."
+        },
+        "(A) Galley": {
+            "name": "(Au) Cambusa",
+            "description": "Una cucina combinata e un’area per servire i pasti. Facilita notevolmente i viaggi più lunghi. Include la conservazione degli alimenti freschi."
+        },
+        "(A) Medical Bay": {
+            "name": "(Au) Unità Medica",
+            "description": "Una camera pulita con delle attrezzature mediche. Non un vero e proprio ospedale, ma sufficiente per rappezzare la maggior parte delle ferite. Magazzino per farmaci e scanner medici. Ottenete +1d a tutti i tiri recuperare dell’equipaggio."
+        },
+        "(A) Science Bay": {
+            "name": "(Au) Unità Scientifica",
+            "description": "Un laboratorio per analizzare anomalie e artefatti dei Precursori. Magazzino sicuro per cose che potrebbero reagire in modo imprevedibile con il resto dell’astronave (o con le leggi della fisica in generale)."
+        },
+        "(A) Shields": {
+            "name": "(Au) Scudi",
+            "description": "Dissipatori di particelle e deflettori di raggi elettromagnetici. Possono essere distrutti dal fuoco concentrato. Contano come armatura contro le armi delle astronavi e le scariche di energia. Assorbono completamente i colpi di blaster. Costano due potenziamenti invece di uno solo."
+        },
+        "(A) Workshop": {
+            "name": "(Au) Officina",
+            "description": "Sega al plasma, un nano-assemblatore, una scorta di componenti metallici ed elettrici, una fucina: tutto ciò che serve per costruire, modificare o smontare macchine, armi e strumenti complessi. Ottenete +1 qualità ai tiri creare."
+        },
+        "(A) Vault": {
+            "name": "(Au) Stiva Blindata",
+            "description": "Molto utile per proteggere oggetti di valore durante i viaggi nello spazio. La serratura programmabile consente di dotarsi con codici di sicurezza personalizzati, codici monouso e registri degli accessi. In caso di pericolo, usate come riferimento il punteggio dello scafo."
+        },
+        "(A) Shuttle": {
+            "name": "(Au) Navetta",
+            "description": "Una piccola navicella spaziale in grado di trasportare poche persone dal pianeta fino in orbita. Ha una capacità dei sistemi limitata: considerate qualsiasi sistema come avente qualità zero rispetto alle astronavi vere e proprie."
+        },
+        "(A) Rover": {
+            "name": "(Au) Fuoristrada",
+            "description": "Un veicolo fuoristrada blindato per il trasporto di carichi pesanti e persone via terra. Include verricello ad alta potenza e adesivi decorativi."
+        },
+        "(A) Backup Batteries": {
+            "name": "(Au) Batterie di Riserva",
+            "description": "Batterie e alimentazioni elettriche che possono alimentare l’astronave autonomamente dal motore. Sufficienti per poche ore di funzionamento a utilizzo ridotto, o per pochi minuti a piena potenza. Fungono da armatura della nave contro gli incidenti legati all’energia."
+        },
+        "(C) Comms": {
+            "name": "(Co) Comunicazioni",
+            "description": "Matrici di comunicazione, sensori e scanner."
+        },
+        "(C) Fake Transponder": {
+            "name": "(Co) Transponder Contraffatto",
+            "description": "Trasmette il segnale di un’astronave diversa, oppure riproduce una registrazione di echi dei sensori (o funge da faro). Utilizzabile da remoto."
+        },
+        "(C) Long Range Scanner": {
+            "name": "(Co) Scanner a Lungo Raggio",
+            "description": "Fornisce una buona varietà di spettro elettromagnetico e letture gravimetriche, dando così all’equipaggio un preavviso su pericoli distanti fino a una dozzina di minuti luce."
+        },
+        "(C) Nexus Link": {
+            "name": "(Co) Collegamento al Nexus",
+            "description": "Una connessione alla Rete di Sistema dell’Egemonia. Consente di ricevere le ultime notizie, messaggi intra sistema in tempo reale, e l’accesso alle griglie di sensori nel sistema. Non sicuro."
+        },
+        "(C) Quantum Encoder": {
+            "name": "(Co) Codificatore Quantistico",
+            "description": "Crittografa le comunicazioni e i dati archiviati. Garantisce armatura contro l’intercettazione delle comunicazioni digitali. I dati sull’astronave vengono archiviati in un luogo sicuro fino a quando non vengono sbloccati."
+        },
+        "(C) Targeting System": {
+            "name": "(Co) Sistema di Puntamento",
+            "description": "Gestisce i calcoli e il puntamento per i sistemi degli armamenti senza che lo debba fare un membro dell’equipaggio. Usate il punteggio comunicazioni quando sparate."
+        },
+        "(H) Hull": {
+            "name": "(Sc) Scafo",
+            "description": "Lo scafo determina la robustezza di una nave."
+        },
+        "(H) Cargo Hold": {
+            "name": "(Sc) Stiva",
+            "description": "Uno spazio sufficiente per trasportare un carico moderato (fonte di un moderato guadagno di cred). Una stiva è ben visibile e non vengono prese particolari precauzioni per nasconderne il contenuto."
+        },
+        "(H) Crew Quarters": {
+            "name": "(Sc) Alloggi dell’Equipaggio",
+            "description": "Offrono privacy e comfort in un mondo in cui queste cose sono un lusso. Inoltre, non dovrete più sopportare i compagni che russano!"
+        },
+        "(H) Landing Bay": {
+            "name": "(Sc) Ponte di Atterraggio",
+            "description": "Camere di decompressione, portelloni e rampe di decollo per ospitare navette e un piccolo caccia monoposto adatto al volo atmosferico e spaziale."
+        },
+        "(H) Smuggling Compartments": {
+            "name": "(Sc) Scomparti per il Contrabbando",
+            "description": "Simile a una stiva (può trasportare un piccolo carico), ma non apparirà nelle scansioni di routine o nelle ispezioni ottiche della nave. Con un punteggio di scafo 3+, possiede un supporto vitale e può nascondere anche delle persone."
+        },
+        "(E) Engine": {
+            "name": "(Mo) Motore",
+            "description": "I sistemi che vi fanno volare e manovrare."
+        },
+        "(E) Afterburners": {
+            "name": "(Mo) Postbruciatori",
+            "description": "Scaricano del carburante grezzo nei motori per un breve aumento di velocità. I motori possono essere considerati di punteggio +1 per il tiro relativo, ma questa azione potrebbe danneggiarli."
+        },
+        "(E) Cloaking Device": {
+            "name": "(Mo) Dispositivo di Occultamento",
+            "description": "Non necessariamente rende l’astronave invisibile, ma ne maschera calore e traccia elettrica, rendendola molto difficile da rilevare o identificare. Super illegale."
+        },
+        "(E) Grav Generator": {
+            "name": "(Mo) Generatore di Campo Gravitazionale",
+            "description": "Crea un ampio campo gravitazionale, che si estende da un’astronave all’altra. Può essere utilizzato per agganciare o trainare. Instabile e pericoloso. Prototipo della Gilda dei Forgiastelle. Illegale."
+        },
+        "(E) Jump Drive": {
+            "name": "(Mo) Iperguida",
+            "description": "Un motore speciale in grado di attivare i portali Ur che connettono i Sistemi e traslano le navi su rotte iperspaziali."
+        },
+        "(W) Weapons": {
+            "name": "(Ar) Armamenti",
+            "description": "Sistemi d'arma della nave."
+        },
+        "(W) Coherence Cannon": {
+            "name": "(Ar) Cannone Laser",
+            "description": "Un’arma magnifica. Può far saltare con un solo colpo navi più piccole di una corazzata monocalibro; deve essere poi riparato o ricaricato. Potrebbe friggere i sistemi. Incredibilmente mortale. Super illegale."
+        },
+        "(W) Grappling Hooks": {
+            "name": "(Ar) Sistema di Arpionamento",
+            "description": "Ufficialmente serve per agganciarsi agli asteroidi e a imbracare carichi; consiste in una serie di reti, rampini e braccia meccaniche che possono collegare due navi per permettere il traino o l’abbordaggio. Legali."
+        },
+        "(W) Mining Drill": {
+            "name": "(Ar) Trivella",
+            "description": "Pericolosa. Trivella potenziata, da usare a distanza ravvicinata. Vaporizza le rocce. Facilmente modificabile per perforare gli scafi. Legale."
+        },
+        "(W) Missiles": {
+            "name": "(Ar) Missili",
+            "description": "Proiettili dotati di reattori. Illegali."
+        },
+        "(W) Particle Cannons": {
+            "name": "(Ar) Cannoni a Particelle",
+            "description": "Pew! Pew! Sulle astronavi personali, di solito sono a postazione fissa. Spesso sono governati da un’unica console comandi. Illegali senza licenza."
+        }
+    }
+}

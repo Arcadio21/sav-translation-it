@@ -1,0 +1,28 @@
+{
+    "label": "Dimensioni dell'Astronave",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Corvette": {
+            "name": "Corvetta",
+            "description": "Navi grandi, non possono atterrare sui pianeti; devono rimanere in orbita e utilizzare una navetta per scendere sulla superficie."
+        },
+        "Dreadnought": {
+            "name": "Corazzata",
+            "description": "Navi immense, non possono atterrare sui pianeti. Solitamente sono l'ammiraglia di una grande flotta o una base mobile per navi più piccole."
+        },
+        "Freighter": {
+            "name": "Mercantile",
+            "description": "Navi medie, possono atterrare sui pianeti. È la dimensione di nave più comune."
+        },
+        "Frigate": {
+            "name": "Fregata",
+            "description": "Navi enormi, non possono atterrare sui pianeti. Spesso sono navi da guerra dotate di diverse armi pesanti."
+        },
+        "Personal": {
+            "name": "Personale",
+            "description": "Navi piccole, possono atterrare sui pianeti e trasportare armi leggere, ma non abbastanza potenti da danneggiare seriamente navi più grandi."
+        }
+    }
+}
