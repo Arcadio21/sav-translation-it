@@ -1,0 +1,47 @@
+{
+  "id": "sav-translation-it",
+  "title": "Scum And Villainy Italian Translation",
+  "description": "Questo modulo contiene la traduzione per il sistema e i compendi di Scum And Villainy in italiano.",
+  "version": "1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "scum-and-villainy",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "arcadio21",
+      "email": "arcadio21@gmail.com",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Arcadio21/sav-translation-it",
+  "manifest": "https://raw.githubusercontent.com/Arcadio21/sav-translation-it/main/module.json",
+  "download": ""
+}
