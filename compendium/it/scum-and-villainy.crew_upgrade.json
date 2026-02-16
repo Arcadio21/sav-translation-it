@@ -7,139 +7,283 @@
     "entries": {
         "(A) AI Module": {
             "name": "(Au) Modulo IA",
-            "description": "Un software collegato a un nucleo IA Ur, con filamentos di fibra ottica che percorrono tutta la nave. Può automatizzare alcune attività oppure manovrare l’astronave per conto dell’equipaggio. Modulo con personalità irriverente disponibile gratuitamente."
+            "description": "Un software collegato a un nucleo IA Ur, con filamentos di fibra ottica che percorrono tutta la nave. Può automatizzare alcune attività oppure manovrare l’astronave per conto dell’equipaggio. Modulo con personalità irriverente disponibile gratuitamente.",
+            "class": "Auxiliary"
         },
-        "(A) Armory": {
-            "name": "(Au) Armeria",
-            "description": "Una stanza sicura, che contiene le armi e le armature dell’equipaggio. Tutte le armi e le armature dell’equipaggio sono considerate eccellenti, se non lo erano già."
-        },
-        "(A) Brig": {
-            "name": "(Au) Cella",
-            "description": "Una prigione spaziale. Non è pensata per un’incarcerazione a lungo termine. Eviterà la maggior parte dei tentativi di fuga."
-        },
-        "(A) Galley": {
-            "name": "(Au) Cambusa",
-            "description": "Una cucina combinata e un’area per servire i pasti. Facilita notevolmente i viaggi più lunghi. Include la conservazione degli alimenti freschi."
-        },
-        "(A) Medical Bay": {
-            "name": "(Au) Unità Medica",
-            "description": "Una camera pulita con delle attrezzature mediche. Non un vero e proprio ospedale, ma sufficiente per rappezzare la maggior parte delle ferite. Magazzino per farmaci e scanner medici. Ottenete +1d a tutti i tiri recuperare dell’equipaggio."
-        },
-        "(A) Science Bay": {
-            "name": "(Au) Unità Scientifica",
-            "description": "Un laboratorio per analizzare anomalie e artefatti dei Precursori. Magazzino sicuro per cose che potrebbero reagire in modo imprevedibile con il resto dell’astronave (o con le leggi della fisica in generale)."
-        },
-        "(A) Shields": {
-            "name": "(Au) Scudi",
-            "description": "Dissipatori di particelle e deflettori di raggi elettromagnetici. Possono essere distrutti dal fuoco concentrato. Contano come armatura contro le armi delle astronavi e le scariche di energia. Assorbono completamente i colpi di blaster. Costano due potenziamenti invece di uno solo."
-        },
-        "(A) Workshop": {
-            "name": "(Au) Officina",
-            "description": "Sega al plasma, un nano-assemblatore, una scorta di componenti metallici ed elettrici, una fucina: tutto ciò che serve per costruire, modificare o smontare macchine, armi e strumenti complessi. Ottenete +1 qualità ai tiri creare."
-        },
-        "(A) Vault": {
-            "name": "(Au) Stiva Blindata",
-            "description": "Molto utile per proteggere oggetti di valore durante i viaggi nello spazio. La serratura programmabile consente di dotarsi con codici di sicurezza personalizzati, codici monouso e registri degli accessi. In caso di pericolo, usate come riferimento il punteggio dello scafo."
-        },
-        "(A) Shuttle": {
-            "name": "(Au) Navetta",
-            "description": "Una piccola navicella spaziale in grado di trasportare poche persone dal pianeta fino in orbita. Ha una capacità dei sistemi limitata: considerate qualsiasi sistema come avente qualità zero rispetto alle astronavi vere e proprie."
-        },
-        "(A) Rover": {
+        "(U) Land Rover": {
             "name": "(Au) Fuoristrada",
-            "description": "Un veicolo fuoristrada blindato per il trasporto di carichi pesanti e persone via terra. Include verricello ad alta potenza e adesivi decorativi."
+            "description": "Un veicolo fuoristrada blindato per il trasporto di carichi pesanti e persone via terra. Include verricello ad alta potenza e adesivi decorativi.",
+            "class": "Upgrades"
         },
-        "(A) Backup Batteries": {
-            "name": "(Au) Batterie di Riserva",
-            "description": "Batterie e alimentazioni elettriche che possono alimentare l’astronave autonomamente dal motore. Sufficienti per poche ore di funzionamento a utilizzo ridotto, o per pochi minuti a piena potenza. Fungono da armatura della nave contro gli incidenti legati all’energia."
+        "(Ce) Stun Weapons": {
+            "name": "(C) Armi Stordenti",
+            "description": "Una vasta gamma di armi per catturare e immobilizzare i prigionieri senza arrecare danno (o almeno, non grave). Includono, ma non si limitano a:\nManette. [0 carico]\nManganelli stordenti. [1 carico]\nImpostazione stordente dei blaster. Non del tipo pesante. [1 carico]\nGranate stordenti. Sostituiscono i detonatori sulla scheda. [1 carico]\nNarcotici. Potrebbero non funzionare su alcuni xeno. [0 carico]\nNon sono da portare in ogni incarico, ma sono utili quando si dà la caccia a qualche taglia. Generalmente legali.",
+            "class": "Cerberus"
         },
-        "(C) Comms": {
-            "name": "(Co) Comunicazioni",
-            "description": "Matrici di comunicazione, sensori e scanner."
-        },
-        "(C) Fake Transponder": {
-            "name": "(Co) Transponder Contraffatto",
-            "description": "Trasmette il segnale di un’astronave diversa, oppure riproduce una registrazione di echi dei sensori (o funge da faro). Utilizzabile da remoto."
-        },
-        "(C) Long Range Scanner": {
-            "name": "(Co) Scanner a Lungo Raggio",
-            "description": "Fornisce una buona varietà di spettro elettromagnetico e letture gravimetriche, dando così all’equipaggio un preavviso su pericoli distanti fino a una dozzina di minuti luce."
+        "(Fi) Black Market Contacts": {
+            "name": "(F) Contatti nel Mercato Nero",
+            "description": "In grado di procurarvi tutti i moduli (anche quelli illegali) di cui la vostra astronave ha bisogno, anche quando siete RICERCATI. Pieni di risorse. Mai reperibili nello stesso posto. Per poter acquisire moduli illegali potrebbe essere necessario portare a termine un incarico.",
+            "class": "Firedrake"
         },
         "(C) Nexus Link": {
             "name": "(Co) Collegamento al Nexus",
-            "description": "Una connessione alla Rete di Sistema dell’Egemonia. Consente di ricevere le ultime notizie, messaggi intra sistema in tempo reale, e l’accesso alle griglie di sensori nel sistema. Non sicuro."
+            "description": "Una connessione alla Rete di Sistema dell’Egemonia. Consente di ricevere le ultime notizie, messaggi intra sistema in tempo reale, e l’accesso alle griglie di sensori nel sistema. Non sicuro.",
+            "class": "Comms"
         },
-        "(C) Quantum Encoder": {
-            "name": "(Co) Codificatore Quantistico",
-            "description": "Crittografa le comunicazioni e i dati archiviati. Garantisce armatura contro l’intercettazione delle comunicazioni digitali. I dati sull’astronave vengono archiviati in un luogo sicuro fino a quando non vengono sbloccati."
+        "(A) Shields": {
+            "name": "(Au) Scudi",
+            "description": "Dissipatori di particelle e deflettori di raggi elettromagnetici. Possono essere distrutti dal fuoco concentrato. Contano come armatura contro le armi delle astronavi e le scariche di energia. Assorbono completamente i colpi di blaster. Costano due potenziamenti invece di uno solo.",
+            "class": "Auxiliary"
         },
-        "(C) Targeting System": {
-            "name": "(Co) Sistema di Puntamento",
-            "description": "Gestisce i calcoli e il puntamento per i sistemi degli armamenti senza che lo debba fare un membro dell’equipaggio. Usate il punteggio comunicazioni quando sparate."
+        "(Ce) Hard Knocks": {
+            "name": "(C) Scuola di Vita",
+            "description": "A volte la fortuna è solo esperienza guadagnata duramente. Il vostro equipaggio inizia ogni incarico con +1 stratagemma.",
+            "class": "Cerberus"
         },
-        "(H) Hull": {
-            "name": "(Sc) Scafo",
-            "description": "Lo scafo determina la robustezza di una nave."
+        "(Fi) Driven": {
+            "name": "(F) Motivati",
+            "description": "Ogni PG ottiene +1 casella trauma. Questo può riportare in gioco un PG con 4 traumi, se lo desiderate.",
+            "class": "Firedrake"
+        },
+        "(G) Survival Gear": {
+            "name": "(Eq) Kit di Sopravvivenza",
+            "description": "Attrezzatura da campeggio, respiratori, attrezzatura da arrampicata, attrezzatura subacquea. Tutto ciò di cui un equipaggio intraprendente potrebbe avere bisogno per sopravvivere alla natura più selvaggia.",
+            "class": "Gear"
         },
         "(H) Cargo Hold": {
             "name": "(Sc) Stiva",
-            "description": "Uno spazio sufficiente per trasportare un carico moderato (fonte di un moderato guadagno di cred). Una stiva è ben visibile e non vengono prese particolari precauzioni per nasconderne il contenuto."
+            "description": "Uno spazio sufficiente per trasportare un carico moderato (fonte di un moderato guadagno di cred). Una stiva è ben visibile e non vengono prese particolari precauzioni per nasconderne il contenuto.",
+            "class": "Hull"
         },
-        "(H) Crew Quarters": {
-            "name": "(Sc) Alloggi dell’Equipaggio",
-            "description": "Offrono privacy e comfort in un mondo in cui queste cose sono un lusso. Inoltre, non dovrete più sopportare i compagni che russano!"
+        "(T) Prowess": {
+            "name": "(Ad) Prestanza",
+            "description": "Addestramento in Prestanza. Durante l'avanzamento (fase di downtime), ogni PG segna +1 PE nell'attributo Prestanza.",
+            "class": "Training"
         },
-        "(H) Landing Bay": {
-            "name": "(Sc) Ponte di Atterraggio",
-            "description": "Camere di decompressione, portelloni e rampe di decollo per ospitare navette e un piccolo caccia monoposto adatto al volo atmosferico e spaziale."
+        "(T) Insight": {
+            "name": "(Ad) Intuito",
+            "description": "Addestramento in Intuito. Durante l'avanzamento (fase di downtime), ogni PG segna +1 PE nell'attributo Intuito.",
+            "class": "Training"
         },
-        "(H) Smuggling Compartments": {
-            "name": "(Sc) Scomparti per il Contrabbando",
-            "description": "Simile a una stiva (può trasportare un piccolo carico), ma non apparirà nelle scansioni di routine o nelle ispezioni ottiche della nave. Con un punteggio di scafo 3+, possiede un supporto vitale e può nascondere anche delle persone."
+        "(G) Alien Pet": {
+            "name": "(Eq) Animale Alieno",
+            "description": "Selezionato o addestrato per ubbidire ad alcuni comandi base. A volte risulta persino utile.",
+            "class": "Gear"
         },
-        "(E) Engine": {
-            "name": "(Mo) Motore",
-            "description": "I sistemi che vi fanno volare e manovrare."
+        "(C) Targeting Computer": {
+            "name": "(Co) Sistema di Puntamento",
+            "description": "Gestisce i calcoli e il puntamento per i sistemi degli armamenti senza che lo debba fare un membro dell’equipaggio. Usate il punteggio comunicazioni quando sparate.",
+            "class": "Comms"
         },
-        "(E) Afterburners": {
-            "name": "(Mo) Postbruciatori",
-            "description": "Scaricano del carburante grezzo nei motori per un breve aumento di velocità. I motori possono essere considerati di punteggio +1 per il tiro relativo, ma questa azione potrebbe danneggiarli."
+        "(A) Armory": {
+            "name": "(Au) Armeria",
+            "description": "Una stanza sicura, che contiene le armi e le armature dell’equipaggio. Tutte le armi e le armature dell’equipaggio sono considerate eccellenti, se non lo erano già.",
+            "class": "Auxiliary"
         },
-        "(E) Cloaking Device": {
-            "name": "(Mo) Dispositivo di Occultamento",
-            "description": "Non necessariamente rende l’astronave invisibile, ma ne maschera calore e traccia elettrica, rendendola molto difficile da rilevare o identificare. Super illegale."
+        "(Ce) Smooth Criminals": {
+            "name": "(C) Criminali Raffinati",
+            "description": "A volte la legalità è solo questione di chi possiede la pistola più grossa. Ogni membro dell’equipaggio ottiene +1 casella di stress (in totale 10).",
+            "class": "Cerberus"
         },
-        "(E) Grav Generator": {
-            "name": "(Mo) Generatore di Campo Gravitazionale",
-            "description": "Crea un ampio campo gravitazionale, che si estende da un’astronave all’altra. Può essere utilizzato per agganciare o trainare. Instabile e pericoloso. Prototipo della Gilda dei Forgiastelle. Illegale."
+        "(U) Intruder Alarm": {
+            "name": "(Au) Allarme Anti-intrusione",
+            "description": "Un set completo di sensori ambientali per scoprire chi o cosa è a bordo dell’astronave, in combinazione con gas soporiferi rilasciati dai condotti dell’aria. L’allarme può far lampeggiare luci rosse e mandare segnali al vostro comunicatore personale, ma i gas vengono gestiti manualmente.",
+            "class": "Upgrades"
         },
-        "(E) Jump Drive": {
-            "name": "(Mo) Iperguida",
-            "description": "Un motore speciale in grado di attivare i portali Ur che connettono i Sistemi e traslano le navi su rotte iperspaziali."
+        "(St) Dark Hyperspace Lane Maps": {
+            "name": "(S) Mappe delle Rotte Oscure",
+            "description": "Queste rotte pericolose e non gestite vi permetteranno di spostare il vostro carico attraverso il sistema senza destare l'attenzione delle pattuglie dell'Egemonia. Vi daranno la possibilità di viaggiare quasi inosservati in un sistema in cui il livello RICERCATO è pari o superiore a 3.",
+            "class": "Stardancer"
         },
-        "(W) Weapons": {
-            "name": "(Ar) Armamenti",
-            "description": "Sistemi d'arma della nave."
-        },
-        "(W) Coherence Cannon": {
-            "name": "(Ar) Cannone Laser",
-            "description": "Un’arma magnifica. Può far saltare con un solo colpo navi più piccole di una corazzata monocalibro; deve essere poi riparato o ricaricato. Potrebbe friggere i sistemi. Incredibilmente mortale. Super illegale."
-        },
-        "(W) Grappling Hooks": {
-            "name": "(Ar) Sistema di Arpionamento",
-            "description": "Ufficialmente serve per agganciarsi agli asteroidi e a imbracare carichi; consiste in una serie di reti, rampini e braccia meccaniche che possono collegare due navi per permettere il traino o l’abbordaggio. Legali."
+        "(Ce) Tracers": {
+            "name": "(C) Localizzatori",
+            "description": "Una vasta gamma di modi per tracciare i vostri bersagli. Include minuscole cimici che possono essere nascoste sui vestiti con una leggera pacca sulla schiena, radiofari che possono essere attaccati agli scafi, e persino clonatori di trasmissioni per le comunicazioni. La legalità degli strumenti varia, ma un’autorizzazione può mettere tutto in regola.",
+            "class": "Cerberus"
         },
         "(W) Mining Drill": {
             "name": "(Ar) Trivella",
-            "description": "Pericolosa. Trivella potenziata, da usare a distanza ravvicinata. Vaporizza le rocce. Facilmente modificabile per perforare gli scafi. Legale."
+            "description": "Pericolosa. Trivella potenziata, da usare a distanza ravvicinata. Vaporizza le rocce. Facilmente modificabile per perforare gli scafi. Legale.",
+            "class": "Weapons"
         },
         "(W) Missiles": {
             "name": "(Ar) Missili",
-            "description": "Proiettili dotati di reattori. Illegali."
+            "description": "Proiettili dotati di reattori. Illegali.",
+            "class": "Weapons"
+        },
+        "(A) Brig": {
+            "name": "(Au) Cella",
+            "description": "Una prigione spaziale. Non è pensata per un’incarcerazione a lungo termine. Eviterà la maggior parte dei tentativi di fuga.",
+            "class": "Auxiliary"
+        },
+        "(U) Holo-Emitters": {
+            "name": "(Au) Olo-proiettori",
+            "description": "Utilizzati per olo-conferenze e ostentazioni appariscenti. Le immagini di solito non reggono a un esame attento, ma possono essere convincenti per un breve periodo. Include giochi e film.",
+            "class": "Upgrades"
+        },
+        "(St) False Ship Papers": {
+            "name": "(S) Documenti Navali Falsificati",
+            "description": "Ogni contrabbandiere ha bisogno di un certo numero di documenti ben falsificati, che forniscano all’equipaggio e all’astronave identità meno “ricercate” in un dato sistema.",
+            "class": "Stardancer"
+        },
+        "(E) Afterburners": {
+            "name": "(Mo) Postbruciatori",
+            "description": "Scaricano del carburante grezzo nei motori per un breve aumento di velocità. I motori possono essere considerati di punteggio +1 per il tiro relativo, ma questa azione potrebbe danneggiarli.",
+            "class": "Engine"
+        },
+        "(E) Jump Drive": {
+            "name": "(Mo) Iperguida",
+            "description": "Un motore speciale in grado di attivare i portali Ur che connettono i Sistemi e traslano le navi su rotte iperspaziali.",
+            "class": "Engine"
         },
         "(W) Particle Cannons": {
             "name": "(Ar) Cannoni a Particelle",
-            "description": "Pew! Pew! Sulle astronavi personali, di solito sono a postazione fissa. Spesso sono governati da un’unica console comandi. Illegali senza licenza."
+            "description": "Pew! Pew! Sulle astronavi personali, di solito sono a postazione fissa. Spesso sono governati da un’unica console comandi. Illegali senza licenza.",
+            "class": "Weapons"
+        },
+        "(E) Cloaking Device": {
+            "name": "(Mo) Dispositivo di Occultamento",
+            "description": "Non necessariamente rende l’astronave invisibile, ma ne maschera calore e traccia elettrica, rendendola molto difficile da rilevare o identificare. Super illegale.",
+            "class": "Engine"
+        },
+        "(G) Recon Drone": {
+            "name": "(Eq) Drone da Ricognizione",
+            "description": "Un piccolo drone per la sorveglianza, la mappatura e la raccolta di informazioni nello spazio e nell'atmosfera. Possono seguire semplici istruzioni: \"Localizza le tracce di calore in quell'edificio\" o \"Avvisami se qualcuno passa in questo corridoio\".",
+            "class": "Gear"
+        },
+        "(T) Resolve": {
+            "name": "(Ad) Risolutezza",
+            "description": "Addestramento in Risolutezza. Durante l'avanzamento (fase di downtime), ogni PG segna +1 PE nell'attributo Risolutezza.",
+            "class": "Training"
+        },
+        "(C) Long-Range Scanner": {
+            "name": "(Co) Scanner a Lungo Raggio",
+            "description": "Fornisce una buona varietà di spettro elettromagnetico e letture gravimetriche, dando così all’equipaggio un preavviso su pericoli distanti fino a una dozzina di minuti luce.",
+            "class": "Comms"
+        },
+        "(Fi) Secret Base": {
+            "name": "(F) Base Segreta",
+            "description": "Potrebbe trovarsi all’interno di antiche rovine Ur su un pianeta o dentro un enorme asteroide. Avete trovato e rimesso in sesto un buon nascondiglio lontano dal malevolo sguardo dell’Egemonia: qui voi e i vostri alleati potete incontrarvi, nascondervi, leccarvi le ferite e pianificare i vostri incarichi. È segreto... per ora.",
+            "class": "Firedrake"
+        },
+        "(U) Vault": {
+            "name": "(Au) Stiva Blindata",
+            "description": "Molto utile per proteggere oggetti di valore durante i viaggi nello spazio. La serratura programmabile consente di dotarsi con codici di sicurezza personalizzati, codici monouso e registri degli accessi. In caso di pericolo, usate come riferimento il punteggio dello scafo.",
+            "class": "Upgrades"
+        },
+        "(E) Gravitic Field Generator": {
+            "name": "(Mo) Generatore di Campo Gravitazionale",
+            "description": "Crea un ampio campo gravitazionale, che si estende da un’astronave all’altra. Può essere utilizzato per agganciare o trainare. Instabile e pericoloso. Prototipo della Gilda dei Forgiastelle. Illegale.",
+            "class": "Engine"
+        },
+        "(W) Grappling Hooks": {
+            "name": "(Ar) Sistema di Arpionamento",
+            "description": "Ufficialmente serve per agganciarsi agli asteroidi e a imbracare carichi; consiste in una serie di reti, rampini e braccia meccaniche che possono collegare due navi per permettere il traino o l’abbordaggio. Legali.",
+            "class": "Weapons"
+        },
+        "(U) Shuttle": {
+            "name": "(Au) Navetta",
+            "description": "Una piccola navicella spaziale in grado di trasportare poche persone dal pianeta fino in orbita. Ha una capacità dei sistemi limitata: considerate qualsiasi sistema come avente qualità zero rispetto alle astronavi vere e proprie.",
+            "class": "Upgrades"
+        },
+        "(Ce) Personal Vehicles": {
+            "name": "(C) Veicoli Personali",
+            "description": "Il vostro equipaggio ha alcune eleganti imbarcazioni monoposto dotate di chassis e ali pieghevoli, così da ospitarle facilmente nella nave. Il carburante è limitato, ma possono oltrepassare l'atmosfera. Possono trasportare armi base, anche se non possono danneggiare seriamente nulla delle dimensioni di un mercantile. Potreste volere un ponte di atterraggio.",
+            "class": "Cerberus"
+        },
+        "(H) Smuggling Compartments": {
+            "name": "(Sc) Scomparti per il Contrabbando",
+            "description": "Simile a una stiva (può trasportare un piccolo carico), ma non apparirà nelle scansioni di routine o nelle ispezioni ottiche della nave. Con un punteggio di scafo 3+, possiede un supporto vitale e può nascondere anche delle persone.",
+            "class": "Hull"
+        },
+        "(T) Playbook": {
+            "name": "(Ad) Libretto",
+            "description": "Addestramento del Libretto. Durante l'avanzamento (fase di downtime), ogni PG segna +1 PE nella barra PE del proprio libretto.",
+            "class": "Training"
+        },
+        "(G) Workshop": {
+            "name": "(Eq) Officina",
+            "description": "Sega al plasma, un nano-assemblatore, una scorta di componenti metallici ed elettrici, una fucina: tutto ciò che serve per costruire, modificare o smontare macchine, armi e strumenti complessi. Ottenete +1 qualità ai tiri creare.",
+            "class": "Gear"
+        },
+        "(A) Medical Bay": {
+            "name": "(Au) Unità Medica",
+            "description": "Una camera pulita con delle attrezzature mediche. Non un vero e proprio ospedale, ma sufficiente per rappezzare la maggior parte delle ferite. Magazzino per farmaci e scanner medici. Ottenete +1d a tutti i tiri recuperare dell’equipaggio.",
+            "class": "Auxiliary"
+        },
+        "(U) Power Reserves": {
+            "name": "(Au) Batterie di Riserva",
+            "description": "Batterie e alimentazioni elettriche che possono alimentare l’astronave autonomamente dal motore. Sufficienti per poche ore di funzionamento a utilizzo ridotto, o per pochi minuti a piena potenza. Fungono da armatura della nave contro gli incidenti legati all’energia.",
+            "class": "Upgrades"
+        },
+        "(Fi) Popular Support": {
+            "name": "(F) Supporto Popolare",
+            "description": "Ci vuole impegno per conquistare i cuori e le menti, ma la vostra causa ha dei sostenitori tra la gente comune. Quando vi avvicinate a un pianeta o a una stazione, chiedete al GM chi in questo luogo potrebbe essere un simpatizzante. Questo può rendere fuggire (o andare in giro mentre si è RICERCATI) molto più semplice.",
+            "class": "Firedrake"
+        },
+        "(A) Science Bay": {
+            "name": "(Au) Unità Scientifica",
+            "description": "Un laboratorio per analizzare anomalie e artefatti dei Precursori. Magazzino sicuro per cose che potrebbero reagire in modo imprevedibile con il resto dell’astronave (o con le leggi della fisica in generale).",
+            "class": "Auxiliary"
+        },
+        "(H) Crew Quarters": {
+            "name": "(Sc) Alloggi dell’Equipaggio",
+            "description": "Offrono privacy e comfort in un mondo in cui queste cose sono un lusso. Inoltre, non dovrete più sopportare i compagni che russano!",
+            "class": "Hull"
+        },
+        "(A) Galley": {
+            "name": "(Au) Cambusa",
+            "description": "Una cucina combinata e un’area per servire i pasti. Facilita notevolmente i viaggi più lunghi. Include la conservazione degli alimenti freschi.",
+            "class": "Auxiliary"
+        },
+        "(C) Quantum Encryptor": {
+            "name": "(Co) Codificatore Quantistico",
+            "description": "Crittografa le comunicazioni e i dati archiviati. Garantisce armatura contro l’intercettazione delle comunicazioni digitali. I dati sull’astronave vengono archiviati in un luogo sicuro fino a quando non vengono sbloccati.",
+            "class": "Comms"
+        },
+        "(St) Thrillseekers": {
+            "name": "(S) Amanti del Brivido",
+            "description": "Ogni PG ottiene +1 casella stress (aumentare lo stress massimo a 10).",
+            "class": "Stardancer"
+        },
+        "(H) Landing Bay": {
+            "name": "(Sc) Ponte di Atterraggio",
+            "description": "Camere di decompressione, portelloni e rampe di decollo per ospitare navette e un piccolo caccia monoposto adatto al volo atmosferico e spaziale.",
+            "class": "Hull"
+        },
+        "(St) Lucky Charm": {
+            "name": "(S) Portafortuna",
+            "description": "Che si tratti di un manufatto Ur o di alcuni souvenir ben visibili sul ponte, a volte per essere fortunati serve solo credere in qualcosa. L’equipaggio inizia con +1 stratagemma a ogni incarico.",
+            "class": "Stardancer"
+        },
+        "(St) Smuggler's Rigging": {
+            "name": "(S) Imbracatura da Contrabbandiere",
+            "description": "Può essere trasportata sul corpo o inserita nelle pieghe del vostro cappotto. Vi permette di trasportare/nascondere un solo oggetto da massimo 1 carico in questo modo.",
+            "class": "Stardancer"
+        },
+        "(G) Land Transport": {
+            "name": "(Eq) Trasporto Terrestre",
+            "description": "Trasporti terrestri per l'intero equipaggio. Si muovono su pneumatici, su acqua o hover: motociclette, skimmer da terra, barche o piccole auto.",
+            "class": "Gear"
+        },
+        "(U) Stasis Pods": {
+            "name": "(Au) Capsule di Stasi",
+            "description": "Delle capsule all’avanguardia, possono ospitare ciascuna un umanoide gravemente ferito, malato, o privo di sensi. Non proteggono dai sogni.",
+            "class": "Upgrades"
+        },
+        "(Fi) Way Blessed": {
+            "name": "(F) Benedetti dalla Via",
+            "description": "Alcune persone sono semplicemente molto fortunate. La gente comune pensa che questo sia una sorta di segno. Non stateci troppo a pensare. Cominciate con +1 stratagemma all’inizio di ogni incarico.",
+            "class": "Firedrake"
+        },
+        "(C) Fake Transponder": {
+            "name": "(Co) Transponder Contraffatto",
+            "description": "Trasmette il segnale di un’astronave diversa, oppure riproduce una registrazione di echi dei sensori (o funge da faro). Utilizzabile da remoto.",
+            "class": "Comms"
+        },
+        "(W) Coherence Cannon": {
+            "name": "(Ar) Cannone Laser",
+            "description": "Un’arma magnifica. Può far saltare con un solo colpo navi più piccole di una corazzata monocalibro; deve essere poi riparato o ricaricato. Potrebbe friggere i sistemi. Incredibilmente mortale. Super illegale.",
+            "class": "Weapons"
         }
     }
 }

@@ -2,7 +2,7 @@
   "id": "sav-translation-it",
   "title": "Scum And Villainy Italian Translation",
   "description": "Questo modulo contiene la traduzione per il sistema e i compendi di Scum And Villainy in italiano.",
-  "version": "1",
+  "version": "1.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"

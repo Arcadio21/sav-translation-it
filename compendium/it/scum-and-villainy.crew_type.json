@@ -6,9 +6,15 @@
         "def_abilities": "system.def_abilities"
     },
     "entries": {
-        "Cerberus": {
-            "name": "Cerberus",
-            "description": "Specialisti in estrazioni. Il vostro forte è trovare persone o cose che non vogliono essere trovate e riscuotere taglie.",
+        "Cerberus (E4)": {
+            "name": "Cerberus (E4)",
+            "description": "<p>Specialisti in estrazioni. Il vostro forte è trovare persone o cose che non vogliono essere trovate e riscuotere taglie.</p>\n<p>(Questa versione dell'Astronave Cerberus ha un limite Massimo ai Motori pari a 4, per riflettere il valore indicato nel testo del manuale).</p>",
+            "experience_clues": "Ottenete PE equipaggio quando eseguite con successo un'estrazione o riscuotete una taglia.",
+            "def_abilities": "(Co) Scanner a Lungo Raggio, (Mo) Motore a Salto, (Ar) Rampino, (Au) Celle, (Fo) Destrezza, Mercantile, Stacey Weathers, Arlox, Ishi, Lix, Jezri"
+        },
+        "Cerberus (E3)": {
+            "name": "Cerberus (E3)",
+            "description": "<p>Specialisti in estrazioni. Il vostro forte è trovare persone o cose che non vogliono essere trovate e riscuotere taglie.</p>\n<p>(Questa versione dell'Astronave Cerberus ha un limite Massimo ai Motori pari a 3, per riflettere il valore indicato sulla scheda del libretto).</p>",
             "experience_clues": "Ottenete PE equipaggio quando eseguite con successo un'estrazione o riscuotete una taglia.",
             "def_abilities": "(Co) Scanner a Lungo Raggio, (Mo) Motore a Salto, (Ar) Rampino, (Au) Celle, (Fo) Destrezza, Mercantile, Stacey Weathers, Arlox, Ishi, Lix, Jezri"
         },

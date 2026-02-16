@@ -104,6 +104,66 @@
             "name": "(S) La Fuga",
             "description": "Guadagnate potenza quando cercate di scappare o pilotare per evitare la cattura o evadere un blocco. Quando fate un lavoro di consegna, aggiungete +1d al tiro di ingaggio.\n\nA volte la parte più coraggiosa è scappare. Questa abilità funziona per qualsiasi membro dell'equipaggio, che sia sulla nave o meno. Una consegna può includere qualsiasi lavoro in cui l'obiettivo principale è spostare un carico (legale, illegale o una persona) tra due luoghi.",
             "class": "Stardancer"
+        },
+        "(F) Spark Of Rebellion": {
+            "name": "(F) Scintilla Della Rivolta",
+            "description": "Se lasciate una qualche sorta di biglietto da visita, o un simbolo della resistenza ben visibile nel corso del vostro incarico, acquisite +2 Sospetto. Il vostro equipaggio ottiene +1d al tiro vizio durante il prossimo downtime e non può eccedere nel vizio.",
+            "class": "Firedrake"
+        },
+        "(F) Hearts & Minds": {
+            "name": "(F) In Ogni Cuore E In Ogni Mente",
+            "description": "Ogni PG può aumentare di 1 Comandare, Socializzare oppure Manipolare (fino a un massimo di 3).",
+            "class": "Firedrake"
+        },
+        "(S) Field Repairs": {
+            "name": "(S) Riparazioni Sul Campo",
+            "description": "Ottenete potenza ogni volta che riparate l’astronave mentre siete nello spazio. Se spendete uno stratagemma su un tiro di Armeggiare, ottenete +2d (invece di +1d).",
+            "class": "Stardancer"
+        },
+        "(F) Sympathizers": {
+            "name": "(F) Simpatizzanti",
+            "description": "La vostra ideologia è particolarmente allettante. Quando avete a che fare con un altro equipaggio o una fazione, il GM vi farà sapere chi tra loro crede nella vostra causa (uno, qualcuno, molti, o tutti).",
+            "class": "Firedrake"
+        },
+        "(C) Snatch'N'Grab": {
+            "name": "(C) Mordi E Fuggi",
+            "description": "Quando usate un piano di inganno, infiltrazione, o sociale per effettuare un rapimento o un’estrazione, ottenete +1d al tiro di ingaggio.",
+            "class": "Cerberus"
+        },
+        "(C) Play Both Sides": {
+            "name": "(C) Doppiogioco",
+            "description": "Quando lasciate andare un ricercato, rendetelo un contatto dell’equipaggio.",
+            "class": "Cerberus"
+        },
+        "(F) Natural Enemies": {
+            "name": "(F) Nemici Naturali",
+            "description": "Quando state lavorando a un incarico contro le fazioni dell’Egemonia, ottenete +1d sul tiro d’ingaggio.",
+            "class": "Firedrake"
+        },
+        "(C) Loaded For Bear": {
+            "name": "(C) Caccia Grossa",
+            "description": "Il vostro equipaggio può trasportare +1 carico. I suoi membri possiedono un’armatura inconfondibile e di alta qualità. Quando indossate l’armatura, conta come armatura pesante (due utilizzi).",
+            "class": "Cerberus"
+        },
+        "(F) Old Hands": {
+            "name": "(F) Vecchie Volpi",
+            "description": "Quando siete In Guerra (-3 status) con una fazione dell’Egemonia, tutti i membri dell’equipaggio ottengono +1d ai tiri vizio e ottengono comunque due attività di downtime invece di una sola.",
+            "class": "Firedrake"
+        },
+        "(F) Forged In Fire": {
+            "name": "(F) Nel Fuoco Di Mille Battaglie",
+            "description": "Il vostro equipaggio è stato temprato da una crudele esperienza. Ognuno ottiene +1d a tutti i tiri resistenza.",
+            "class": "Firedrake"
+        },
+        "(C) On the Trail": {
+            "name": "(C) Sulla Pista Giusta",
+            "description": "Il vostro equipaggio ottiene un’attività di downtime extra per lavorare su progetti a lungo termine o acquisire una risorsa per rintracciare dei ricercati.",
+            "class": "Cerberus"
+        },
+        "(S) Cargo Eye": {
+            "name": "(S) Occhio Da Mercante",
+            "description": "Il vostro equipaggio ottiene +1 Cred per gli incarichi di contrabbando o di consegna. Ogni volta che raccogliete informazioni, potete chiedere: \"Qual è la cosa che ha più valore, qui?\"",
+            "class": "Stardancer"
         }
     }
 }

@@ -253,6 +253,166 @@
         "Spy Gear": {
             "name": "Attrezzatura da Spia",
             "description": "Travestimenti, modulatori vocali, mini-telecamere, scanner termici, impronte digitali false e filtri audio."
+        },
+        "(Mu) Fine Sniper Rifle": {
+            "name": "(Go) Fucile da Cecchino Eccellente",
+            "description": "Un fucile a canna liscia con sistema di puntamento automatico, grilletto personalizzato e doppio caricatore. Può sparare munizioni mistiche.",
+            "class": "Muscle"
+        },
+        "(Mu) Mystic Ammunition": {
+            "name": "(Go) Munizioni Mistiche",
+            "description": "Proiettili di grosso calibro, progettati per essere sparati da un'arma specializzata, che rilasciano energie mistiche al momento dell'impatto. Conferiscono potenza contro bersagli mistici.",
+            "class": "Muscle"
+        },
+        "(S) Spacesuit": {
+            "name": "(S) Tuta Spaziale",
+            "description": "Fornisce protezione dalle radiazioni, sopravvivenza in atmosfere tossiche, adatta per EVA (attività extraveicolare). Contiene mezza giornata di ossigeno (o altro gas, liquido o sostanza che respiri).",
+            "class": "Standard"
+        },
+        "(N) Stun Blasters": {
+            "name": "(N) Blaster Stordenti",
+            "description": "Blaster regolari con impostazioni di stordimento extra, per quando il tuo importante bersaglio VIP non vuole collaborare.",
+            "class": "Non-Lethal"
+        },
+        "(Sp) Small Luxury Item": {
+            "name": "(Po) Piccolo Bene di Lusso",
+            "description": "Ottimi superalcolici, doni piccoli ma ben pensati, spezie e profumi, strumenti eccellenti, giochi popolari, ecc. Questi possono essere di varie dimensioni. Ogni volta che porti uno di questi con te durante un incarico, spiega di cosa si tratta e perché è lussuoso.",
+            "class": "Speaker"
+        },
+        "(Me) Vision-Enhancing Goggles": {
+            "name": "(Me) Visore Multispettro",
+            "description": "Occhiali con impostazioni termiche e ultraviolette, e livelli di ingrandimento nell'ordine delle migliaia. Modificano persino la sfumatura di colore quando richiesto.",
+            "class": "Mechanic"
+        },
+        "(S) Repair Tools": {
+            "name": "(S) Cassetta degli Attrezzi",
+            "description": "Tutto il necessario per riparare motori di astronavi, speeder e simili. Strumenti per la giunzione a caldo delle console e la messa a punto dei macchinari. Martelli, un saldatore, cacciaviti, chiavi inglesi, caricabatterie, verniciatori spray.",
+            "class": "Standard"
+        },
+        "(Sp) Memento Of a Past Encounter": {
+            "name": "(Po) Ricordo di un Incontro Passato",
+            "description": "Un gioiello inconfondibile, una lama elegante con lo stemma di una Casata, un anello con sigillo, una piccola statua.",
+            "class": "Speaker"
+        },
+        "(Sc) Mystic Ammunition": {
+            "name": "(Ca) Munizioni Mistiche",
+            "description": "Proiettili di grosso calibro, progettati per essere sparati da una pistola speciale, rilasciano energie mistiche quando colpiscono il bersaglio. Conferiscono potenza contro bersagli mistici.",
+            "class": "Scoundrel"
+        },
+        "(N) Knockout Drugs": {
+            "name": "(N) Sonniferi",
+            "description": "Gli effetti collaterali sono comuni e possono includere mal di testa, nausea, vertigini, morte improvvisa, violenti attacchi di rabbia e/o lieve disagio. Potrebbero non funzionare su tutti gli Xeno.",
+            "class": "Non-Lethal"
+        },
+        "(S) Illicit Drugs": {
+            "name": "(S) Sostanze Illegali",
+            "description": "Cosa vuoi calarti, cowboy dello spazio? Per uso personale, per catturare una pericolosa preda, o come intrattenimento mentre viaggi tra i pianeti.",
+            "class": "Standard"
+        },
+        "(S) Medkit": {
+            "name": "(S) Medikit",
+            "description": "Sangue per alcune razze comuni, garze, ipodermiche di antiradiazioni, bisturi laser, antisettici, filo, antidolorifici.",
+            "class": "Standard"
+        },
+        "(My) Memento Of Your Travels": {
+            "name": "(Mi) Un ricordo dei tuoi viaggi",
+            "description": "Una piccola statua, una moneta antica, una ciocca di capelli, una foto.",
+            "class": "Mystic"
+        },
+        "(S) Hacking Tools": {
+            "name": "(S) Strumenti da Hacker",
+            "description": "Piano di lavoro, pinze per cavi, spine e attacchi, decifratori da tastiera, software specializzati, chip modificati ad-hoc, dizionari rainbow, virus automatizzati. Ciò di cui ha bisogno ogni hacker in erba.",
+            "class": "Standard"
+        },
+        "(My) Outdated Religious Outfit": {
+            "name": "(Mi) Abbigliamento Religioso Antiquato",
+            "description": "Tonache, mantelli consunti, sandali, ecc. I praticanti dei Culti più diffusi e approvati dall'Egemonia spesso portano insegne ben note, di fattura moderna.",
+            "class": "Mystic"
+        },
+        "(S) Detonator": {
+            "name": "(S) Detonatore",
+            "description": "Arma esplosiva letale. Ti sta nel palmo della mano e può essere lanciato. Toglie di mezzo quelle porte blindate che i blaster pesanti non riescono a buttar giù. Illegale. Non dovresti averlo. No, dico sul serio.",
+            "class": "Standard"
+        },
+        "(Sp) Medium Luxury Item": {
+            "name": "(Po) Bene di Lusso Medio",
+            "description": "Ottimi superalcolici, doni piccoli ma ben pensati, spezie e profumi, strumenti eccellenti, giochi popolari, ecc. Ogni volta che porti uno di questi con te durante un incarico, spiega di cosa si tratta e perché è lussuoso.",
+            "class": "Speaker"
+        },
+        "(N) Stun Grenades": {
+            "name": "(N) Granate Stordenti",
+            "description": "Flashbangs nello spazio!",
+            "class": "Non-Lethal"
+        },
+        "(Sp) Large Luxury Item": {
+            "name": "(Po) Grande Bene di Lusso",
+            "description": "Ottimi superalcolici, doni piccoli ma ben pensati, spezie e profumi, strumenti eccellenti, giochi popolari, ecc. Ogni volta che porti uno di questi con te durante un incarico, spiega di cosa si tratta e perché è lussuoso.",
+            "class": "Speaker"
+        },
+        "(P) Fine Customized Spacesuit": {
+            "name": "(Pi) Tuta Spaziale Personalizzata Eccellente",
+            "description": "Belle decalcomanie, luce di emergenza, piccoli reattori direzionali. Ti terrà in vita nello spazio, o quando la tua cabina di pilotaggio verrà colpita. Ti permette di muoverti, e forse persino di fare salti più ampi in atmosfera.",
+            "class": "Pilot"
+        },
+        "(S) Spy Gear": {
+            "name": "(S) Attrezzatura da Spia",
+            "description": "Travestimenti, modulatori vocali, mini-telecamere, scanner termici, impronte digitali false e filtri audio.",
+            "class": "Standard"
+        },
+        "(My) Trappings Of Religion": {
+            "name": "(Mi) Simboli Religiosi",
+            "description": "Pergamene, testi antichi, icone, coppe e ciotole, campanelle.",
+            "class": "Mystic"
+        },
+        "(Sc) Loaded Dice or Trick Holo-cards": {
+            "name": "(Ca) Dadi truccati o olocarte truccate",
+            "description": "Degli strumenti per il gioco d'azzardo sottilmente modificati per favorire risultati particolari. La fortuna è una delle tue tante abilità. A volte però ha bisogno di un piccolo aiuto.",
+            "class": "Scoundrel"
+        },
+        "(S) Blaster Pistol": {
+            "name": "(S) Pistola Blaster",
+            "description": "Spara proiettili di plasma ad alta temperatura. Precisa solo a distanza ravvicinata. Fa \"pew pew\" (obbligatorio). È disponibile in una grande varietà di forme e colori.",
+            "class": "Standard"
+        },
+        "(S) Melee Weapon": {
+            "name": "(S) Arma da Mischia",
+            "description": "Affilata. Contundente. Appuntita. Di varie dimensioni. Potenzialmente dotata di estremità laser. Chissà, magari è una vibrolama... uau. Batterie incluse.",
+            "class": "Standard"
+        },
+        "(P) Grappling Hook": {
+            "name": "(Pi) Spara-rampini",
+            "description": "Piccolo, ma meccanizzato. Può tirarti su. Si integra nella tua cintura. Ti fa sembrare molto affascinante, quando arrivi in soccorso di qualcuno con un balzo.",
+            "class": "Pilot"
+        },
+        "(Mu) Detonator Launcher": {
+            "name": "(Go) Lanciadetonatori",
+            "description": "Spara detonatori ad alta velocità. I detonatori sono illegali, quindi generano Sospetto quando vengono lanciati. Può essere usato per colpire/danneggiare veicoli e strutture. Per nulla discreto. Le batterie sono incluse, i detonatori no.",
+            "class": "Muscle"
+        },
+        "(S) Communicator": {
+            "name": "(S) Comunicatore",
+            "description": "Ha poche bande, probabilmente anche alcune criptate. Funziona solo quando si trova all'interno di un'orbita.",
+            "class": "Standard"
+        },
+        "(N) Stun Batons": {
+            "name": "(N) Manganelli Stordenti",
+            "description": "Elettrizzanti!",
+            "class": "Non-Lethal"
+        },
+        "(S) Heavy Blaster": {
+            "name": "(S) Blaster Pesante",
+            "description": "Può causare danni considerevoli a veicoli e porte non blindate. Dispone di una dozzina di colpi. Fa danni seri e brutali alle persone. Illegale.",
+            "class": "Standard"
+        },
+        "(N) Restraints": {
+            "name": "(N) Costrizioni/Manette",
+            "description": "Un'ampia varietà per gestire qualsiasi genere di Xeno.",
+            "class": "Non-Lethal"
+        },
+        "(S) Armor": {
+            "name": "(S) Armatura",
+            "description": "Robusta e ingombrante, copre tutto il corpo. Ferma qualche colpo. Ignora i coltelli senza batter ciglio. Alimentata elettricamente per assistere i movimenti.",
+            "class": "Standard"
         }
     }
 }
