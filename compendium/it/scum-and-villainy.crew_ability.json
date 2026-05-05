@@ -7,162 +7,107 @@
     "entries": {
         "(C) Deadly": {
             "name": "(C) Letali",
-            "description": "Ogni membro dell’equipaggio può aggiungere 1 al suo valore di azione in lottare, comandare o sgattaiolare (fino a un massimo di 3).\n\nOgni giocatore può scegliere l'azione che preferisce (non devono scegliere tutti la stessa). Se prendete questa abilità durante la creazione del personaggio e dell'equipaggio, essa sostituisce il normale limite iniziale per i valori di azione.",
+            "description": "Ogni PG può aumentare di 1 COMANDARE, LOTTARE o SGATTAIOLARE (fino a un massimo di 3).\n\nOgni giocatore può scegliere l'azione che preferisce (non tutti devono scegliere la stessa). Se si acquisisce questa abilità durante la creazione dei personaggi e dell'equipaggio, ignora il normale limite iniziale per i valori di azione.",
             "class": "Cerberus"
         },
         "(C) Licensed": {
             "name": "(C) Autorizzati",
-            "description": "Ottenete -2 sospetto in qualsiasi incarico di caccia alle taglie legittimo.\n\nLa nave può montare armi a particelle e il vostro equipaggio può portare e usare legalmente blaster pesanti mentre inseguite un bersaglio.\n\nQuesto significa anche che avete con voi le licenze di caccia alla taglia. A volte puoi usarle per spiegare perché ti trovi dove non dovresti e per portare armi che ad altri verrebbero confiscate. La collaborazione delle forze dell'ordine varia da pianeta a pianeta.",
+            "description": "Sottraete -2 SOSPETTO a qualsiasi incarico legale come cacciatori di taglie. La vostra astronave può montare armi a particelle e il vostro equipaggio può trasportare e utilizzare legalmente blaster pesanti durante l'inseguimento di un bersaglio.\n\nCiò significa anche che possedete un patentino come cacciatori di taglie. A volte questo può essere sfruttato per spiegare come mai vi trovate in posti in cui generalmente non dovreste essere, e perché portate armi quando ad altri potrebbero essere confiscate. La cooperazione delle forze dell'ordine varia da pianeta a pianeta.",
             "class": "Cerberus"
         },
         "(C) Light Touch": {
-            "name": "(C) Tocco Leggero",
-            "description": "Guadagnate potenza quando pedinate un bersaglio o quando cercate informazioni sulla sua posizione precedente.\n\nLe posizioni precedenti sono ottimi posti per cercare indizi su dove sta andando il bersaglio (\"Ha detto che si stava dirigendo verso la Cintura degli Asteroidi\") o per tendere un'imboscata se torna indietro. Tocco leggero non si applica necessariamente ad azioni furtive; potreste socializzare con i clienti di un bar frequentato dal bersaglio per scoprire dove è andato.",
+            "name": "(C) Mano Morbida",
+            "description": "Ottenete potenza quando inseguite un bersaglio, o quando raccogliete informazioni in un luogo in cui è già passato.\n\nI luoghi in cui il bersaglio è passato possono includere posti in cui ha soggiornato, scene del crimine, bar preferiti, e simili. Se la pista è ancora calda, può portarvi a un inseguimento.",
             "class": "Cerberus"
         },
-        "(C) Shadows": {
-            "name": "(C) Ombre",
-            "description": "Guadagnate potenza quando cercate di nascondere la nave. Se eseguite un incarico di estrazione o segreto, aggiungete +1d al tiro di ingaggio.\n\nNascondere la nave può significare camuffarla, atterrare in una zona d'ombra dei sensori, o nasconderla tra i detriti spaziali. Un lavoro segreto è qualsiasi incarico in cui l'obiettivo principale è non essere scoperti.",
+        "(C) Loaded For Bear": {
+            "name": "(C) Caccia Grossa",
+            "description": "Il vostro equipaggio può trasportare +1 carico. I suoi membri possiedono un'armatura inconfondibile e di alta qualità. Quando indossate l'armatura, conta come armatura pesante (due utilizzi).\n\nI carichi massimi di ogni membro dell'equipaggio vengono aumentati (quindi il carico leggero diventa 1-4, il carico medio 5-6, e il pesante 7-9). Chi ha realizzato un'armatura così distintiva (e chi potrebbe riconoscerne la fattura)? L'armatura pesante vi consente anche di spuntare la seconda casella dell'armatura (pesante) sulla vostra scheda per ridurre il danno.",
             "class": "Cerberus"
         },
-        "(C) Synchronized": {
-            "name": "(C) Sincronizzati",
-            "description": "Quando ottenete un successo critico in un'azione di gruppo, recuperate 1 stress.\n\nIl recupero di stress si applica a chiunque abbia partecipato all'azione di gruppo, incluso chi l'ha guidata.",
-            "class": "Cerberus"
-        },
-        "(C) Tough As Nails": {
-            "name": "(C) Duri a Morire",
-            "description": "Le penalità dovute al danno sono meno gravi di un livello (anche se il livello 4 di danno rimane fatale).\n\nQuesto vale per tutti i membri dell'equipaggio e si cumula con l'abilità speciale della Canaglia \"Tenace\". Se hai entrambe, puoi ignorare le penalità di livello 3 (e inferiori).",
-            "class": "Cerberus"
-        },
-        "(F) Abdication": {
-            "name": "(F) Abdicazione",
-            "description": "Potete spendere 4 cred o 2 sospetto per un avanzamento dell’equipaggio.\n\nPotete farlo solo una volta per ogni fase di downtime (ma potete acquistare avanzamenti normalmente quante volte volete). Acquistare un avanzamento in questo modo rappresenta il supporto che ricevete dai vostri alleati rivoluzionari.",
-            "class": "Firedrake"
-        },
-        "(F) Cold": {
-            "name": "(F) Freddi",
-            "description": "Guadagnate potenza quando resistete a interrogatori, tortura o manipolazione mentale.\n\nLa vostra dedizione alla causa vi protegge. Questo include la resistenza a poteri mistici che cercano di leggervi la mente o controllarvi.",
-            "class": "Firedrake"
-        },
-        "(F) Forged": {
-            "name": "(F) Forgiati",
-            "description": "Ottenete +1d ai tiri di resistenza contro il danno fisico. I moduli armamenti sulla vostra nave costano 1 cred in meno.\n\nSiete temprati dalla battaglia e avete accesso a fornitori di armi che supportano la vostra causa.",
-            "class": "Firedrake"
-        },
-        "(F) Just Cause": {
-            "name": "(F) Giusta Causa",
-            "description": "Ogni membro dell’equipaggio può aggiungere 1 al suo valore di azione in comandare, lottare o pilotare (fino a un massimo di 3).\n\nOgni giocatore può scegliere l'azione che preferisce (non devono scegliere tutti la stessa). Se prendete questa abilità durante la creazione del personaggio e dell'equipaggio, essa sostituisce il normale limite iniziale per i valori di azione.",
-            "class": "Firedrake"
-        },
-        "(F) Spark": {
-            "name": "(F) Scintilla",
-            "description": "Guadagnate +1d al tiro di ingaggio per Assalti o lavori che colpiscono la Legione o le fazioni potenti. Se l'incarico riesce, guadagnate +2 sospetto.\n\nLe vostre azioni sono rumorose e audaci. Ispirano gli altri, ma attirano anche l'attenzione delle autorità.",
-            "class": "Firedrake"
-        },
-        "(F) War Dogs": {
-            "name": "(F) Cani da Guerra",
-            "description": "Quando acquisite una risorsa temporanea (come una gang o un esperto), guadagnate +1d al tiro. Le vostre coorti guadagnano +1 scala.\n\nLa vostra reputazione attira seguaci leali e competenti.",
-            "class": "Firedrake"
-        },
-        "(S) Cargo Transport": {
-            "name": "(S) Trasporto Merci",
-            "description": "La vostra nave ha due compartimenti di carico aggiuntivi. Se la vostra nave ha un vano di contrabbando, ottenete +1d al tiro di ingaggio per i lavori di trasporto.\n\nLo spazio extra è utile per trasportare più merce o nascondere persone. Il bonus all'ingaggio riflette la vostra capacità di preparare nascondigli migliori.",
-            "class": "Stardancer"
-        },
-        "(S) Ghost": {
-            "name": "(S) Fantasma",
-            "description": "Ottenete +1d ai tiri per ingannare scanner o sensori, o per falsificare i transponder della nave.\n\nSiete esperti nel passare inosservati ai controlli elettronici.",
-            "class": "Stardancer"
-        },
-        "(S) Home Cooking": {
-            "name": "(S) Cucina Casalinga",
-            "description": "Il vostro equipaggio mangia bene. Quando siete sulla nave, potete trasformare il vostro vizio in Cibo e Bevande.\n\nInoltre, la vostra cucina è un luogo di ritrovo. Potete usare la cucina per scene di socializzazione o recupero extra durante il downtime.",
-            "class": "Stardancer"
-        },
-        "(S) Just Passing Through": {
-            "name": "(S) Solo di Passaggio",
-            "description": "Quando il livello di sospetto è 5 o più, potete scambiare 2 sospetto con 1 status di fazione (fino a +1 status) con una fazione che vi ha aiutato o che è rimasta impressionata da voi.\n\nSiete bravi a non lasciare tracce o a far sì che la gente si ricordi di voi per i motivi giusti (o sbagliati, ma utili).",
-            "class": "Stardancer"
-        },
-        "(S) Leverage": {
-            "name": "(S) Leva",
-            "description": "Il vostro equipaggio sa come sfruttare le opportunità. Guadagnate +1d quando raccogliete informazioni su un bersaglio.\n\nSapete dove guardare e chi corrompere per ottenere i dettagli succosi.",
-            "class": "Stardancer"
-        },
-        "(S) Low Profile": {
-            "name": "(S) Basso Profilo",
-            "description": "Se il vostro livello di ricercato è inferiore a quello del sistema in cui vi trovate, ottenete +1d ai tiri di ingaggio.\n\nSiete bravi a sembrare insignificanti o a confondervi con il traffico locale.",
-            "class": "Stardancer"
-        },
-        "(S) Problem Solvers": {
-            "name": "(S) Problem Solver",
-            "description": "Ogni membro dell’equipaggio può aggiungere 1 al suo valore di azione in pilotare, manipolare o scattare (fino a un massimo di 3).\n\nOgni giocatore può scegliere l'azione che preferisce (non devono scegliere tutti la stessa). Se prendete questa abilità durante la creazione del personaggio e dell'equipaggio, essa sostituisce il normale limite iniziale per i valori di azione.",
-            "class": "Stardancer"
-        },
-        "(S) The Getaway": {
-            "name": "(S) La Fuga",
-            "description": "Guadagnate potenza quando cercate di scappare o pilotare per evitare la cattura o evadere un blocco. Quando fate un lavoro di consegna, aggiungete +1d al tiro di ingaggio.\n\nA volte la parte più coraggiosa è scappare. Questa abilità funziona per qualsiasi membro dell'equipaggio, che sia sulla nave o meno. Una consegna può includere qualsiasi lavoro in cui l'obiettivo principale è spostare un carico (legale, illegale o una persona) tra due luoghi.",
-            "class": "Stardancer"
-        },
-        "(F) Spark Of Rebellion": {
-            "name": "(F) Scintilla Della Rivolta",
-            "description": "Se lasciate una qualche sorta di biglietto da visita, o un simbolo della resistenza ben visibile nel corso del vostro incarico, acquisite +2 Sospetto. Il vostro equipaggio ottiene +1d al tiro vizio durante il prossimo downtime e non può eccedere nel vizio.",
-            "class": "Firedrake"
-        },
-        "(F) Hearts & Minds": {
-            "name": "(F) In Ogni Cuore E In Ogni Mente",
-            "description": "Ogni PG può aumentare di 1 Comandare, Socializzare oppure Manipolare (fino a un massimo di 3).",
-            "class": "Firedrake"
-        },
-        "(S) Field Repairs": {
-            "name": "(S) Riparazioni Sul Campo",
-            "description": "Ottenete potenza ogni volta che riparate l’astronave mentre siete nello spazio. Se spendete uno stratagemma su un tiro di Armeggiare, ottenete +2d (invece di +1d).",
-            "class": "Stardancer"
-        },
-        "(F) Sympathizers": {
-            "name": "(F) Simpatizzanti",
-            "description": "La vostra ideologia è particolarmente allettante. Quando avete a che fare con un altro equipaggio o una fazione, il GM vi farà sapere chi tra loro crede nella vostra causa (uno, qualcuno, molti, o tutti).",
-            "class": "Firedrake"
-        },
-        "(C) Snatch'N'Grab": {
-            "name": "(C) Mordi E Fuggi",
-            "description": "Quando usate un piano di inganno, infiltrazione, o sociale per effettuare un rapimento o un’estrazione, ottenete +1d al tiro di ingaggio.",
+        "(C) On the Trail": {
+            "name": "(C) Sulla Pista Giusta",
+            "description": "Il vostro equipaggio ottiene un'attività di downtime extra per lavorare su progetti a lungo termine o acquisire una risorsa per rintracciare dei ricercati.\n\nA volte conoscete il ricercato, ma non sapete dove si nasconde. A seconda dei contatti e della vostra influenza, potrebbe essere necessario più di un semplice tiro di raccogliere informazioni. Chiunque nell'equipaggio può utilizzare questa azione di downtime per effettuare il tiro appropriato.",
             "class": "Cerberus"
         },
         "(C) Play Both Sides": {
             "name": "(C) Doppiogioco",
-            "description": "Quando lasciate andare un ricercato, rendetelo un contatto dell’equipaggio.",
+            "description": "Quando lasciate andare un ricercato, rendetelo un contatto dell'equipaggio.\n\nAnche se potreste non ricevere un compenso dalle fazioni che vi hanno assunto, molti ricercati possiedono parecchi CRED e saranno più che felici di donarveli per la loro libertà. ma ancora più redditizi potrebbero essere gli incarichi e le dritte che potrebbero avere per voi. Aggiungete il ricercato ai contatti dell'equipaggio, ma tenete presente che un giorno potrebbe essere catturato da altri cacciatori di taglie (e pagarvi per essere salvato). Non sempre i cacciatori di taglie catturano i loro bersagli, quindi il GM modificherà (o meno) lo status della fazione come richiesto dalla storia, alla fine di un incarico di questo tipo.",
             "class": "Cerberus"
         },
-        "(F) Natural Enemies": {
-            "name": "(F) Nemici Naturali",
-            "description": "Quando state lavorando a un incarico contro le fazioni dell’Egemonia, ottenete +1d sul tiro d’ingaggio.",
-            "class": "Firedrake"
-        },
-        "(C) Loaded For Bear": {
-            "name": "(C) Caccia Grossa",
-            "description": "Il vostro equipaggio può trasportare +1 carico. I suoi membri possiedono un’armatura inconfondibile e di alta qualità. Quando indossate l’armatura, conta come armatura pesante (due utilizzi).",
+        "(C) Snatch'N'Grab": {
+            "name": "(C) Mordi e Fuggi",
+            "description": "Quando usate un piano di inganno, infiltrazione, o sociale per effettuare un rapimento o un'estrazione, ottenete +1d al tiro di ingaggio.\n\nIl proposito del vostro equipaggio è quello di portare un obiettivo prioritario al sicuro senza attirare l'attenzione. Questa abilità si applica a qualsiasi missione in cui dovete rimuovere un bersaglio che si trova sotto la sorveglianza delle guardie.",
             "class": "Cerberus"
-        },
-        "(F) Old Hands": {
-            "name": "(F) Vecchie Volpi",
-            "description": "Quando siete In Guerra (-3 status) con una fazione dell’Egemonia, tutti i membri dell’equipaggio ottengono +1d ai tiri vizio e ottengono comunque due attività di downtime invece di una sola.",
-            "class": "Firedrake"
         },
         "(F) Forged In Fire": {
             "name": "(F) Nel Fuoco Di Mille Battaglie",
-            "description": "Il vostro equipaggio è stato temprato da una crudele esperienza. Ognuno ottiene +1d a tutti i tiri resistenza.",
+            "description": "Il vostro equipaggio è stato temprato da una crudele esperienza. Ognuno ottiene +1d a tutti i tiri resistenza.\n\nQuesta abilità si applica a tutti i PG dell'equipaggio.",
             "class": "Firedrake"
         },
-        "(C) On the Trail": {
-            "name": "(C) Sulla Pista Giusta",
-            "description": "Il vostro equipaggio ottiene un’attività di downtime extra per lavorare su progetti a lungo termine o acquisire una risorsa per rintracciare dei ricercati.",
-            "class": "Cerberus"
+        "(F) Hearts & Minds": {
+            "name": "(F) In Ogni Cuore E In Ogni Mente",
+            "description": "Ogni PG può aumentare di 1 COMANDARE, SOCIALIZZARE oppure MANIPOLARE (fino a un massimo di 3).\n\nOgni giocatore può scegliere l'azione che preferisce (non tutti devono scegliere la stessa). Se si acquisisce questa abilità durante la creazione dei personaggi e dell'equipaggio, ignora il normale limite iniziale per i valori di azione.",
+            "class": "Firedrake"
+        },
+        "(F) Just Cause": {
+            "name": "(F) Per una Giusta Causa",
+            "description": "Quando il vostro equipaggio fa la cosa giusta anche a costo di rimetterci, potete segnare un PE equipaggio.\n\nIl costo per il vostro equipaggio deve essere reale, anche se non necessariamente devastante. Potreste perdere un'opportunità significativa, subire una battuta d'arresto con un progetto, oppure far arrabbiare una fazione potente.",
+            "class": "Firedrake"
+        },
+        "(F) Natural Enemies": {
+            "name": "(F) Nemici Naturali",
+            "description": "Quando state lavorando a un incarico contro le fazioni dell'Egemonia, ottenete +1d sul tiro d'ingaggio.\n\nQuesto vale per qualsiasi incarico in cui il vostro bersaglio principale sia una delle fazioni nella colonna Egemonia (vedi pagina 320), ad esempio la Corporazione, le Gilde, i Culti o la Casata Malklaith. Se l'incarico disturba una fazione, ma non coinvolge i suoi membri, il bonus non viene applicato.",
+            "class": "Firedrake"
+        },
+        "(F) Old Hands": {
+            "name": "(F) Vecchie Volpi",
+            "description": "Quando siete In Guerra (-3 status) con una fazione dell'Egemonia, tutti i membri dell'equipaggio ottengono +1d ai tiri vizio e ottengono comunque due attività di downtime invece di una sola.\n\nPotete scegliere di non tirare il dado extra per il vizio, se lo desiderate.",
+            "class": "Firedrake"
+        },
+        "(F) Spark Of Rebellion": {
+            "name": "(F) Scintilla Della Rivolta",
+            "description": "Se lasciate una qualche sorta di biglietto da visita, o un simbolo della resistenza ben visibile nel corso del vostro incarico, acquisite +2 SOSPETTO. Il vostro equipaggio ottiene +1d al tiro vizio durante il prossimo downtime e non può eccedere nel vizio.\n\nQuando selezionate questa abilità, decidete quale sarà il simbolo della vostra ribellione. Quando vi lasciate dietro un biglietto da visita, dovrebbe essere ben visibile, o comunque posizionato in modo da essere trovato facilmente (preferibilmente non solo dall'Egemonia).",
+            "class": "Firedrake"
+        },
+        "(F) Sympathizers": {
+            "name": "(F) Simpatizzanti",
+            "description": "La vostra ideologia è particolarmente allettante. Quando avete a che fare con un altro equipaggio o una fazione, il GM vi farà sapere chi tra loro crede nella vostra causa (uno, qualcuno, molti, o tutti).\n\nSe il GM non è sicuro della risposta, può fare un tiro sorte usando la qualità dell'equipaggio, magari modificato dalla sua reputazione presso una fazione. Le fazioni non sono monolitiche, e mentre la fazione nel suo insieme (e alcuni individui al suo interno) può disprezzare i PG, alcuni dei suoi membri possono avere comunque inclinazioni ribelli. Notate che la risposta alla domanda su quanti simpatizzanti ci sono è sempre di almeno una persona.",
+            "class": "Firedrake"
         },
         "(S) Cargo Eye": {
             "name": "(S) Occhio Da Mercante",
-            "description": "Il vostro equipaggio ottiene +1 Cred per gli incarichi di contrabbando o di consegna. Ogni volta che raccogliete informazioni, potete chiedere: \"Qual è la cosa che ha più valore, qui?\"",
+            "description": "Il vostro equipaggio ottiene +1 CRED per gli incarichi di contrabbando o di consegna. Ogni volta che raccogliete informazioni, potete chiedere \"Qual è la cosa che ha più valore, qui?\".\n\nIL CRED extra viene guadagnato nel momento della ricompensa, oltre alla paga dell'incarico. Potete porre la domanda quando è sensata contestualmente.",
+            "class": "Stardancer"
+        },
+        "(S) Field Repairs": {
+            "name": "(S) Riparazioni Sul Campo",
+            "description": "Ottenete potenza ogni volta che riparate l’astronave mentre siete nello spazio. Se spendete uno stratagemma su un tiro di ARMEGGIARE, ottenete +2d (invece di +1d).\n\nLa potenza potrebbe consentirvi di eseguire riparazioni che altri non possono fare, come riparare temporaneamente un danno all'astronave che di solito richiede un hangar di carenaggio. I dadi extra dello stratagemma si applicano a qualsiasi tiro di ARMEGGIARE, non solo alle riparazioni.",
+            "class": "Stardancer"
+        },
+        "(S) Home Cooking": {
+            "name": "(S) Cucina Casalinga",
+            "description": "Tutto il vostro equipaggio acquisisce Cucina Casalinga come vizio. Subito dopo un incarico, potete spendere 1 CRED e un'attività di downtime per cucinare per tutti, consentendo a tutto l'equipaggio presente di effettuare un tiro di vizio.\n\nSe qualcuno eccede nel vizio, scoppia una rissa e tutti subiscono 1 stress dopo il tiro. Richiede un modulo cambusa. L'equipaggio può dividersi tra chi spende l'attività e chi paga il CRED. Lo stress viene applicato dopo che ogni altra situazione è stata risolta, e dopo eventuali bonus e malus (include ogni attività di downtime o perdita di stress tramite l'abilità Edonista del Pilota). Ognuno di voi guadagna 1 stress totale (non 1 per ogni eccedere nel vizio).",
+            "class": "Stardancer"
+        },
+        "(S) Just Passing Through": {
+            "name": "(S) Solo Di Passaggio",
+            "description": "Durante la ricompensa, sottraete -1 SOSPETTO dall'incarico. Quando il vostro SOSPETTO è 4 o meno, ottenete +1d per ingannare le persone quando vi fate passare per normali cittadini, e avete ancora due attività di downtime anche se siete in Guerra (-3 status) con una qualsiasi fazione: siete difficili da localizzare.\n\nUsate il SOSPETTO del sistema in cui vi trovate all'inizio del downtime per determinare il numero di attività che ogni membro dell'equipaggio riceve. Se durante il downtime l'equipaggio passa attraverso un sistema in cui ha un SOSPETTO elevato, le fazioni nemiche potrebbero trovarlo comunque.",
+            "class": "Stardancer"
+        },
+        "(S) Leverage": {
+            "name": "(S) Influenza",
+            "description": "Il vostro equipaggio sa come tirare i fili giusti e riscuotere favori. Quando tenete un basso profilo, invece che tirare potete acquisire -1 status con una fazione che sia Disponibile (+1 status) o maggiore, per ridurre il vostro LIVELLO RICERCATO di 1 e far tornare il vostro SOSPETTO a 0 in un sistema.\n\nPotete convertire i miglioramenti appena ottenuti nei rapporti con una fazione. Non dovete per forza ridurre il livello di SOSPETTO nel sistema in cui avete svolto l'incarico: la fazione vi aiuterà a coprire le vostre tracce in qualsiasi sistema.",
+            "class": "Stardancer"
+        },
+        "(S) Problem Solvers": {
+            "name": "(S) Risolvi Problemi",
+            "description": "Ogni PG può aumentare di 1 PILOTARE, ARMEGGIARE o LOTTARE (fino a un massimo di 3).\n\nOgni giocatore può scegliere l'azione che preferisce (non tutti devono scegliere la stessa). Se si acquisisce questa abilità durante la creazione dei personaggi e dell'equipaggio, ignora il normale limite iniziale per i valori di azione.",
+            "class": "Stardancer"
+        },
+        "(S) The Getaway": {
+            "name": "(S) Via Di Fuga",
+            "description": "Ottenete potenza quando usate SCATTARE o PILOTARE per evitare la cattura o violate un blocco navale. Quando il vostro incarico consiste nell'effettuare una consegna, avete +1d al tiro di ingaggio.\n\nIl miglior ingrediente del valore, è la fuga. Questa abilità funziona per tutti i membri dell'equipaggio, che si trovino o meno sulla nave. Una consegna consiste in ogni incarico il cui obiettivo principale è trasportare qualcosa (legale, illegale, o addirittura una persona) da un luogo all'altro.",
             "class": "Stardancer"
         }
     }
